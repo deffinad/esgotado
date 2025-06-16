@@ -12,7 +12,7 @@ $gagal = session()->getFlashdata('gagal') ? true : false;
     x-data="{ 
     page: 'formLayout', 
     loaded: true, 
-    darkMode: true, 
+    darkMode: false, 
     stickyMenu: false, 
     sidebarToggle: false, 
     scrollTop: false, 
