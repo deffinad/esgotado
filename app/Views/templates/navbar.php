@@ -40,7 +40,7 @@ $user = $_SESSION['isLogged'];
         </div>
 
         <div class="flex items-center gap-3 2xsm:gap-7">
-            <!-- <ul class="flex items-center gap-2 2xsm:gap-4">
+            <ul class="flex items-center gap-2 2xsm:gap-4">
                 <li>
                     <label :class="darkMode ? 'bg-primary' : 'bg-stroke'" class="relative m-0 block h-7.5 w-14 rounded-full">
                         <input type="checkbox" :value="darkMode" @change="darkMode = !darkMode" class="absolute top-0 z-50 m-0 h-full w-full cursor-pointer opacity-0" />
@@ -59,7 +59,7 @@ $user = $_SESSION['isLogged'];
                         </span>
                     </label>
                 </li>
-            </ul> -->
+            </ul>
 
             <!-- User Area -->
             <div class="relative" x-data="{ dropdownOpen: false }" @click.outside="dropdownOpen = false">
