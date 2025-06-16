@@ -1,0 +1,19 @@
+INFO - 2024-09-10 15:50:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-09-10 15:50:35 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-09-10 15:52:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-09-10 15:52:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-09-10 15:52:13 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-09-10 15:52:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-09-10 15:52:22 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-09-10 15:52:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-09-10 15:52:23 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-09-10 15:53:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-09-10 15:53:47 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-09-10 15:53:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-09-10 15:53:54 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-09-10 15:57:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-09-10 15:57:09 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-09-10 15:57:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-09-10 15:57:20 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-09-10 15:57:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-09-10 15:57:25 --> Session: Sessions is enabled, and one exists. Please don't $session->start();

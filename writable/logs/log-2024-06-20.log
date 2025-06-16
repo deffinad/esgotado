@@ -1,0 +1,109 @@
+INFO - 2024-06-20 03:17:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:17:44 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:18:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:18:06 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:19:49 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:20:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:20:03 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:20:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:20:06 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:20:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:20:09 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:20:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:20:11 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:20:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:20:14 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:21:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:21:56 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:22:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:22:09 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:23:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:23:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:23:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:23:20 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:25:31 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:25:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:25:41 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:25:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:25:48 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:27:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:27:12 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:27:23 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:30:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:30:14 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:30:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:30:45 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:30:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:30:59 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:32:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:32:26 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:32:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:32:32 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:33:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:33:04 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:34:16 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:34:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:34:55 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:35:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:35:18 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:38:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:38:12 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 03:38:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 03:38:16 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 04:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 04:04:59 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-06-20 04:05:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-20 04:05:18 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+ERROR - 2024-06-20 04:38:10 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'id22341828_root'@'localhost' (using password: YES) in D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', 'id22341828_root', Object(SensitiveParameterValue), 'id22341828_db_d...', 3306, '', 0)
+#1 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `k`.`id_...', Array, false)
+#4 D:\Project\dlbeauty\app\Models\ClinicModel.php(15): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Project\dlbeauty\app\Controllers\LandingPage.php(41): App\Models\ClinicModel->getClinic()
+#6 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\LandingPage->index()
+#7 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LandingPage))
+#8 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\Project\dlbeauty\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbe...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `k`.`id_...', Array, false)
+#3 D:\Project\dlbeauty\app\Models\ClinicModel.php(15): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\Project\dlbeauty\app\Controllers\LandingPage.php(41): App\Models\ClinicModel->getClinic()
+#5 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\LandingPage->index()
+#6 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LandingPage))
+#7 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#9 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 D:\Project\dlbeauty\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbe...')
+#12 {main}
+CRITICAL - 2024-06-20 04:38:10 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 457.
+ 1 SYSTEMPATH\Database\BaseConnection.php(604): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `k`.`no_telp`, `l`.`id_lokasi_klinik`, `l`.`nama` as `lokasi`, `l`.`provinsi`, `l`.`kota`, `l`.`alamat`, `l`.`koordinat`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`', [], false)
+ 3 APPPATH\Models\ClinicModel.php(15): CodeIgniter\Database\BaseBuilder->get()
+ 4 APPPATH\Controllers\LandingPage.php(41): App\Models\ClinicModel->getClinic()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LandingPage->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LandingPage))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')

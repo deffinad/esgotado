@@ -1,0 +1,825 @@
+INFO - 2024-05-24 03:17:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:17:18 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:17:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:17:23 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:21:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:21:51 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:27:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:27:29 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:27:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:27:33 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:27:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:27:39 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:27:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:27:41 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:27:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:27:56 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:29:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:29:34 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:32:13 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:32:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:32:15 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:32:17 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:33:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:33:23 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:34:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:34:20 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:35:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:35:17 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:35:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:35:44 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:35:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:35:49 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:36:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:36:04 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:36:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:36:21 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:39:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:39:21 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:39:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:39:43 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:41:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:41:03 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:41:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:41:33 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:41:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:41:43 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:41:53 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:42:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:42:09 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:42:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:42:49 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:42:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:42:54 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:43:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:43:01 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:43:34 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:44:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:44:49 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:45:23 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:47:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:47:04 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:47:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:47:08 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:47:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:47:23 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:48:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:48:06 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:48:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:48:18 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:50:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:50:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:51:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:51:39 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:53:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:53:19 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:53:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:53:56 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:54:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:54:36 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:54:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:54:50 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:56:49 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:58:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:58:14 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:58:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:58:17 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:58:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:58:21 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:58:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:58:23 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:58:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:58:35 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:59:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:59:51 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:59:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:59:54 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 03:59:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 03:59:57 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:03:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:03:08 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:04:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:04:18 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:04:35 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:05:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:05:39 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:19:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:19:19 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:19:31 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:21:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:21:10 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-24 04:21:10 --> ParseError: syntax error, unexpected token "->", expecting identifier or variable or "{" or "$"
+[Method: GET, Route: admin/produk/tambah]
+in APPPATH\Models\ProdukModel.php on line 16.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('D:\\Project\\dlbeauty\\vendor\\composer/../../app\\Models\\ProdukModel.php')
+ 2 APPPATH\Controllers\Admin.php(17): Composer\Autoload\ClassLoader->loadClass('App\\Models\\ProdukModel')
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Admin->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-24 04:21:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:21:20 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:21:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:21:30 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:23:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:23:00 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:23:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:23:35 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:26:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:26:45 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:26:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:26:49 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:27:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:27:10 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:27:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:27:27 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:27:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:27:30 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:29:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:29:01 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:29:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:29:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:29:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:29:07 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:29:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:29:14 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:29:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:29:35 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:29:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:29:42 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:29:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:29:47 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:31:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:31:11 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:31:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:31:50 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:31:53 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:32:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:32:14 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:33:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:33:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-24 04:39:26 --> ParseError: syntax error, unexpected token "}"
+[Method: POST, Route: admin/produk/tambah/proses]
+in APPPATH\Controllers\Produk.php on line 19.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('D:\\Project\\dlbeauty\\vendor\\composer/../../app\\Controllers\\Produk.php')
+ 2 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controllers\\Produk')
+ 3 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Produk', true)
+ 4 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+CRITICAL - 2024-05-24 04:39:34 --> ParseError: syntax error, unexpected token "}", expecting "," or ";"
+[Method: POST, Route: admin/produk/tambah/proses]
+in APPPATH\Controllers\Produk.php on line 63.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('D:\\Project\\dlbeauty\\vendor\\composer/../../app\\Controllers\\Produk.php')
+ 2 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controllers\\Produk')
+ 3 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Produk', true)
+ 4 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-24 04:39:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:39:41 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:44:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:44:50 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-24 04:44:50 --> ErrorException: Attempt to read property "kategori" on array
+[Method: POST, Route: admin/produk/tambah/proses]
+in APPPATH\Controllers\Produk.php on line 66.
+ 1 APPPATH\Controllers\Produk.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "kategori" on array', 'D:\\Project\\dlbeauty\\app\\Controllers\\Produk.php', 66)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Produk->addProduk()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-24 04:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:45:23 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-24 04:45:23 --> ArgumentCountError: date() expects at least 1 argument, 0 given
+[Method: POST, Route: admin/produk/tambah/proses]
+in APPPATH\Controllers\Produk.php on line 72.
+ 1 APPPATH\Controllers\Produk.php(72): date()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Produk->addProduk()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-24 04:46:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:46:00 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:53:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:53:37 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:53:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:53:38 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:53:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:53:38 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 04:53:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 04:53:57 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:30:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:30:58 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:31:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:31:29 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+ERROR - 2024-05-24 06:31:29 --> mysqli_sql_exception: Duplicate entry 'PRD001' for key 'PRIMARY' in D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `t_...', 0)
+#1 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_...')
+#2 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_...')
+#3 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_...', Array, false)
+#4 D:\Project\dlbeauty\app\Models\ProdukModel.php(47): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\Project\dlbeauty\app\Controllers\Produk.php(83): App\Models\ProdukModel->addProduk(Array)
+#6 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Produk->addProduk()
+#7 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+#8 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\Project\dlbeauty\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbe...')
+#13 {main}
+CRITICAL - 2024-05-24 06:31:29 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'PRD001' for key 'PRIMARY'
+[Method: POST, Route: admin/produk/tambah/proses]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_produk` (`id_produk`, `nama`) VALUES (:id_produk:, :nama:)', [...], false)
+ 2 APPPATH\Models\ProdukModel.php(47): CodeIgniter\Database\BaseBuilder->insert()
+ 3 APPPATH\Controllers\Produk.php(83): App\Models\ProdukModel->addProduk([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Produk->addProduk()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+CRITICAL - 2024-05-24 06:31:29 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'PRD001' for key 'PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_produk` (`id_produk`, `nama`) VALUES (\'PRD001\', \'testing\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_produk` (`id_produk`, `nama`) VALUES (\'PRD001\', \'testing\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_produk` (`id_produk`, `nama`) VALUES (:id_produk:, :nama:)', [...], false)
+ 4 APPPATH\Models\ProdukModel.php(47): CodeIgniter\Database\BaseBuilder->insert()
+ 5 APPPATH\Controllers\Produk.php(83): App\Models\ProdukModel->addProduk([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Produk->addProduk()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+CRITICAL - 2024-05-24 06:31:29 --> [Caused by] mysqli_sql_exception: Duplicate entry 'PRD001' for key 'PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `t_produk` (`id_produk`, `nama`) VALUES (\'PRD001\', \'testing\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_produk` (`id_produk`, `nama`) VALUES (\'PRD001\', \'testing\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_produk` (`id_produk`, `nama`) VALUES (\'PRD001\', \'testing\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_produk` (`id_produk`, `nama`) VALUES (:id_produk:, :nama:)', [...], false)
+ 5 APPPATH\Models\ProdukModel.php(47): CodeIgniter\Database\BaseBuilder->insert()
+ 6 APPPATH\Controllers\Produk.php(83): App\Models\ProdukModel->addProduk([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Produk->addProduk()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-24 06:33:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:33:07 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:33:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:33:15 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+ERROR - 2024-05-24 06:33:15 --> mysqli_sql_exception: Duplicate entry 'PRD001' for key 'PRIMARY' in D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `t_...', 0)
+#1 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_...')
+#2 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_...')
+#3 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_...', Array, false)
+#4 D:\Project\dlbeauty\app\Models\ProdukModel.php(47): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\Project\dlbeauty\app\Controllers\Produk.php(83): App\Models\ProdukModel->addProduk(Array)
+#6 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Produk->addProduk()
+#7 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+#8 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\Project\dlbeauty\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbe...')
+#13 {main}
+CRITICAL - 2024-05-24 06:33:15 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'PRD001' for key 'PRIMARY'
+[Method: POST, Route: admin/produk/tambah/proses]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_produk` (`id_produk`, `nama`) VALUES (:id_produk:, :nama:)', [...], false)
+ 2 APPPATH\Models\ProdukModel.php(47): CodeIgniter\Database\BaseBuilder->insert()
+ 3 APPPATH\Controllers\Produk.php(83): App\Models\ProdukModel->addProduk([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Produk->addProduk()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+CRITICAL - 2024-05-24 06:33:15 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry 'PRD001' for key 'PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_produk` (`id_produk`, `nama`) VALUES (\'PRD001\', \'testing\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_produk` (`id_produk`, `nama`) VALUES (\'PRD001\', \'testing\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_produk` (`id_produk`, `nama`) VALUES (:id_produk:, :nama:)', [...], false)
+ 4 APPPATH\Models\ProdukModel.php(47): CodeIgniter\Database\BaseBuilder->insert()
+ 5 APPPATH\Controllers\Produk.php(83): App\Models\ProdukModel->addProduk([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Produk->addProduk()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+CRITICAL - 2024-05-24 06:33:15 --> [Caused by] mysqli_sql_exception: Duplicate entry 'PRD001' for key 'PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `t_produk` (`id_produk`, `nama`) VALUES (\'PRD001\', \'testing\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_produk` (`id_produk`, `nama`) VALUES (\'PRD001\', \'testing\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_produk` (`id_produk`, `nama`) VALUES (\'PRD001\', \'testing\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_produk` (`id_produk`, `nama`) VALUES (:id_produk:, :nama:)', [...], false)
+ 5 APPPATH\Models\ProdukModel.php(47): CodeIgniter\Database\BaseBuilder->insert()
+ 6 APPPATH\Controllers\Produk.php(83): App\Models\ProdukModel->addProduk([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Produk->addProduk()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-24 06:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:33:19 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:33:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:33:42 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:33:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:33:42 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:40:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:40:41 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:42:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:42:28 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:42:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:42:45 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:43:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:43:03 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-24 06:43:03 --> ErrorException: Undefined property: stdClass::$kategori
+[Method: GET, Route: admin/produk]
+in APPPATH\Views\admin\produk\index.php on line 43.
+ 1 APPPATH\Views\admin\produk\index.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$kategori', 'D:\\Project\\dlbeauty\\app\\Views\\admin\\produk\\index.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\admin\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/produk/index', [], true)
+ 5 APPPATH\Controllers\Admin.php(49): view('admin/produk/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewProduk()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-24 06:43:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:43:20 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:44:42 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:44:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:44:45 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:44:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:44:50 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:44:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:44:54 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:48:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:48:29 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-24 06:48:29 --> ErrorException: Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[Method: GET, Route: admin/produk]
+in APPPATH\Views\admin\produk\index.php on line 42.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-05-24 06:51:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:51:43 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:52:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:52:00 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:52:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:52:07 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:52:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:52:30 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:52:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:52:30 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:57:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:57:16 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:58:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:58:08 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:59:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:59:20 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 06:59:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 06:59:25 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:01:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:01:34 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:01:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:01:40 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:01:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:01:44 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:02:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:02:21 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:02:25 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:02:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:02:30 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:03:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:03:39 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:03:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:03:41 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:04:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:04:10 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:06:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:06:32 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:06:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:06:35 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:06:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:06:56 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:07:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:07:20 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:07:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:07:24 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:08:54 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:09:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:09:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:09:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:09:05 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:11:11 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:11:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:11:29 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:11:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:11:46 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:13:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:13:48 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-24 07:13:48 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: admin/produk/edit/PRD002]
+in APPPATH\Views\admin\produk\add.php on line 33.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/produk/add', [], true)
+ 4 APPPATH\Controllers\Admin.php(96): view('admin/produk/add', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewEditProduk('PRD002')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-24 07:14:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:14:48 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-24 07:14:48 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: admin/produk/edit/PRD002]
+in APPPATH\Views\admin\produk\add.php on line 33.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/produk/add', [], true)
+ 4 APPPATH\Controllers\Admin.php(97): view('admin/produk/add', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewEditProduk('PRD002')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-24 07:14:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:14:50 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-24 07:14:50 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: admin/produk/edit/PRD002]
+in APPPATH\Views\admin\produk\add.php on line 33.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/produk/add', [], true)
+ 4 APPPATH\Controllers\Admin.php(97): view('admin/produk/add', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewEditProduk('PRD002')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-24 07:14:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:14:54 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-24 07:14:54 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: admin/produk]
+in APPPATH\Views\admin\produk\index.php on line 36.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/produk/index', [], true)
+ 4 APPPATH\Controllers\Admin.php(49): view('admin/produk/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewProduk()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-24 07:14:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:14:55 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-24 07:14:55 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: admin/produk/edit/PRD001]
+in APPPATH\Views\admin\produk\add.php on line 33.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/produk/add', [], true)
+ 4 APPPATH\Controllers\Admin.php(97): view('admin/produk/add', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewEditProduk('PRD001')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-24 07:14:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:14:57 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-24 07:14:57 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: admin/produk]
+in APPPATH\Views\admin\produk\index.php on line 36.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/produk/index', [], true)
+ 4 APPPATH\Controllers\Admin.php(49): view('admin/produk/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewProduk()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-24 07:15:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:15:01 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-24 07:15:01 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: admin/produk]
+in APPPATH\Views\admin\produk\index.php on line 36.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/produk/index', [], true)
+ 4 APPPATH\Controllers\Admin.php(49): view('admin/produk/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewProduk()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-24 07:15:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:15:26 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:16:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:16:35 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:16:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:16:49 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:16:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:16:53 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:16:56 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:16:58 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:17:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:17:23 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:17:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:17:44 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:17:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:17:53 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:18:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:18:01 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:18:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:18:48 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:18:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:18:53 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:18:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:18:57 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:19:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:19:22 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-24 07:19:22 --> ErrorException: Undefined property: stdClass::$id_jenis_kulit
+[Method: GET, Route: admin/produk/edit/PRD002]
+in APPPATH\Views\admin\produk\edit.php on line 56.
+ 1 APPPATH\Views\admin\produk\edit.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id_jenis_kulit', 'D:\\Project\\dlbeauty\\app\\Views\\admin\\produk\\edit.php', 56)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\admin\\produk\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/produk/edit', [], true)
+ 5 APPPATH\Controllers\Admin.php(96): view('admin/produk/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewEditProduk('PRD002')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-24 07:19:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:19:35 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:20:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:20:06 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:20:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:20:51 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:21:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:21:20 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:26:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:26:50 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:27:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:27:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:27:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:27:08 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:27:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:27:25 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:27:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:27:45 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:27:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:27:46 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:27:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:27:50 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:28:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:28:12 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:31:51 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:32:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:32:37 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:32:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:32:40 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+ERROR - 2024-05-24 07:32:40 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`db_dlbeauty`.`t_pemakaian_produk`, CONSTRAINT `t_pemakaian_produk_ibfk_1` FOREIGN KEY (`id_produk`) REFERENCES `t_produk` (`id_produk`) ON UPDATE CASCADE) in D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(308): mysqli->query('DELETE FROM `t_...', 0)
+#1 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `t_...')
+#2 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `t_...')
+#3 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2823): CodeIgniter\Database\BaseConnection->query('DELETE FROM `t_...', Array, false)
+#4 D:\Project\dlbeauty\app\Models\ProdukModel.php(82): CodeIgniter\Database\BaseBuilder->delete()
+#5 D:\Project\dlbeauty\app\Controllers\Produk.php(127): App\Models\ProdukModel->deleteProduk('PRD001')
+#6 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Produk->deleteProduk('PRD001')
+#7 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+#8 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\Project\dlbeauty\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbe...')
+#13 {main}
+CRITICAL - 2024-05-24 07:32:40 --> CodeIgniter\Database\Exceptions\DatabaseException: Cannot delete or update a parent row: a foreign key constraint fails (`db_dlbeauty`.`t_pemakaian_produk`, CONSTRAINT `t_pemakaian_produk_ibfk_1` FOREIGN KEY (`id_produk`) REFERENCES `t_produk` (`id_produk`) ON UPDATE CASCADE)
+[Method: GET, Route: admin/produk/hapus/PRD001]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2823): CodeIgniter\Database\BaseConnection->query('DELETE FROM `t_produk`
+WHERE `id_produk` = :id_produk:', [...], false)
+ 2 APPPATH\Models\ProdukModel.php(82): CodeIgniter\Database\BaseBuilder->delete()
+ 3 APPPATH\Controllers\Produk.php(127): App\Models\ProdukModel->deleteProduk('PRD001')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Produk->deleteProduk('PRD001')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+CRITICAL - 2024-05-24 07:32:40 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Cannot delete or update a parent row: a foreign key constraint fails (`db_dlbeauty`.`t_pemakaian_produk`, CONSTRAINT `t_pemakaian_produk_ibfk_1` FOREIGN KEY (`id_produk`) REFERENCES `t_produk` (`id_produk`) ON UPDATE CASCADE)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `t_produk`
+WHERE `id_produk` = \'PRD001\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `t_produk`
+WHERE `id_produk` = \'PRD001\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2823): CodeIgniter\Database\BaseConnection->query('DELETE FROM `t_produk`
+WHERE `id_produk` = :id_produk:', [...], false)
+ 4 APPPATH\Models\ProdukModel.php(82): CodeIgniter\Database\BaseBuilder->delete()
+ 5 APPPATH\Controllers\Produk.php(127): App\Models\ProdukModel->deleteProduk('PRD001')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Produk->deleteProduk('PRD001')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+CRITICAL - 2024-05-24 07:32:40 --> [Caused by] mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`db_dlbeauty`.`t_pemakaian_produk`, CONSTRAINT `t_pemakaian_produk_ibfk_1` FOREIGN KEY (`id_produk`) REFERENCES `t_produk` (`id_produk`) ON UPDATE CASCADE)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('DELETE FROM `t_produk`
+WHERE `id_produk` = \'PRD001\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `t_produk`
+WHERE `id_produk` = \'PRD001\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `t_produk`
+WHERE `id_produk` = \'PRD001\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2823): CodeIgniter\Database\BaseConnection->query('DELETE FROM `t_produk`
+WHERE `id_produk` = :id_produk:', [...], false)
+ 5 APPPATH\Models\ProdukModel.php(82): CodeIgniter\Database\BaseBuilder->delete()
+ 6 APPPATH\Controllers\Produk.php(127): App\Models\ProdukModel->deleteProduk('PRD001')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Produk->deleteProduk('PRD001')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-24 07:33:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:33:23 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:33:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:33:31 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:33:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:33:31 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:33:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:33:47 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:33:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:33:49 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:41:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:41:45 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-24 07:41:45 --> ErrorException: Undefined variable $produk
+[Method: GET, Route: admin/produk]
+in APPPATH\Views\admin\produk\index.php on line 34.
+ 1 APPPATH\Views\admin\produk\index.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'D:\\Project\\dlbeauty\\app\\Views\\admin\\produk\\index.php', 34)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\admin\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/produk/index', [], true)
+ 5 APPPATH\Controllers\Admin.php(61): view('admin/produk/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewProduk()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-24 07:42:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:42:44 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:46:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:46:37 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:46:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:46:43 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:46:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:46:50 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:46:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:46:53 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:47:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:47:01 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:47:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:47:06 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:47:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:47:09 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:47:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:47:18 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:48:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:48:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:48:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:48:05 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:50:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:50:37 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-24 07:50:37 --> Error: Call to undefined function App\Controllers\createPagination()
+[Method: GET, Route: admin/produk]
+in APPPATH\Controllers\Admin.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewProduk()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-24 07:54:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:54:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:55:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:55:55 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:56:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:56:01 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:56:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:56:04 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:57:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:57:12 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:57:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:57:17 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:59:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:59:22 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 07:59:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 07:59:24 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 08:00:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 08:00:14 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 08:00:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 08:00:17 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 08:02:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 08:02:26 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 13:11:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 13:11:53 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 13:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 13:12:00 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 13:12:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 13:12:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 13:12:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 13:12:04 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 13:43:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 13:43:26 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 13:43:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 13:43:28 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 13:43:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 13:43:31 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 14:09:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 14:09:58 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 14:10:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 14:10:00 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 14:10:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 14:10:01 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 14:10:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 14:10:04 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 14:10:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 14:10:06 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 14:10:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 14:10:09 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 14:10:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 14:10:54 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-24 14:11:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-24 14:11:00 --> Session: Sessions is enabled, and one exists. Please don't $session->start();

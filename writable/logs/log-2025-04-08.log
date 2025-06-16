@@ -1,0 +1,626 @@
+INFO - 2025-04-08 01:49:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-08 01:49:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 01:49:19 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 01:50:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 01:50:47 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 01:50:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 01:50:47 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 01:53:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 01:53:46 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 02:37:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 02:37:17 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 02:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 02:37:23 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 02:37:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 02:37:27 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 07:53:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 07:53:33 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 07:59:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 07:59:36 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 11:00:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 11:00:08 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 11:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 11:01:14 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 11:01:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 11:01:33 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 11:01:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 11:01:56 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 11:04:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 11:04:16 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 11:04:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 11:04:24 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 11:05:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 11:05:42 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 11:05:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 11:05:47 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 11:06:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 11:06:42 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 11:12:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 11:12:03 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 11:22:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 11:22:43 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2025-04-08 11:22:43 --> ArgumentCountError: Too few arguments to function view(), 0 passed in D:\Project\dlbeauty\app\Controllers\BaseController.php on line 54 and at least 1 expected
+[Method: GET, Route: /]
+in SYSTEMPATH\Common.php on line 1159.
+ 1 APPPATH\Controllers\BaseController.php(54): view()
+ 2 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 3 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+CRITICAL - 2025-04-08 13:40:34 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH\Config\Kint.php on line 44.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(499): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH\Boot.php(302): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH\Boot.php(98): CodeIgniter\Boot::initializeKint()
+ 4 ROOTPATH\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+CRITICAL - 2025-04-08 13:46:31 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH\Config\Kint.php on line 44.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(499): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH\Boot.php(302): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH\Boot.php(98): CodeIgniter\Boot::initializeKint()
+ 4 ROOTPATH\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+CRITICAL - 2025-04-08 13:46:55 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH\Config\Kint.php on line 44.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(499): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH\Boot.php(302): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH\Boot.php(98): CodeIgniter\Boot::initializeKint()
+ 4 ROOTPATH\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+CRITICAL - 2025-04-08 13:47:58 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH\Config\Kint.php on line 44.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(499): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH\Boot.php(302): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH\Boot.php(98): CodeIgniter\Boot::initializeKint()
+ 4 ROOTPATH\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+CRITICAL - 2025-04-08 13:50:24 --> Error: Undefined constant Kint\Renderer\AbstractRenderer::SORT_FULL
+[Method: GET, Route: /]
+in APPPATH\Config\Kint.php on line 44.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(499): CodeIgniter\Autoloader\Autoloader->configureKint()
+ 2 SYSTEMPATH\Boot.php(302): CodeIgniter\Autoloader\Autoloader->initializeKint(true)
+ 3 SYSTEMPATH\Boot.php(98): CodeIgniter\Boot::initializeKint()
+ 4 ROOTPATH\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+INFO - 2025-04-08 11:55:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 11:55:30 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 11:55:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 11:55:42 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2025-04-08 11:55:42 --> ErrorException: Undefined variable $perawatan
+[Method: GET, Route: konsultasi]
+in APPPATH\Views\user\templates\navbar.php on line 22.
+ 1 APPPATH\Views\user\templates\navbar.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $perawatan', 'D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php', 22)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(484): CodeIgniter\View\View->render('user/templates/navbar', null, true)
+ 5 APPPATH\Views\user\templates\layout.php(12): CodeIgniter\View\View->include('user/templates/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\layout.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('user/templates/layout', [], true)
+ 9 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/konsultasi/konsultasi', [], true)
+10 APPPATH\Controllers\Konsultasi.php(39): view('user/konsultasi/konsultasi', [...])
+11 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Konsultasi->index()
+12 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Konsultasi))
+13 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2025-04-08 11:55:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 11:55:50 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 11:57:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 11:57:17 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2025-04-08 11:57:17 --> ErrorException: Undefined property: stdClass::$name
+[Method: GET, Route: /]
+in APPPATH\Views\user\templates\navbar.php on line 25.
+ 1 APPPATH\Views\user\templates\navbar.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$name', 'D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php', 25)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(484): CodeIgniter\View\View->render('user/templates/navbar', null, true)
+ 5 APPPATH\Views\user\templates\layout.php(12): CodeIgniter\View\View->include('user/templates/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\layout.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('user/templates/layout', [], true)
+ 9 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/landing_page', [], true)
+10 APPPATH\Controllers\LandingPage.php(68): view('user/landing_page', [...])
+11 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LandingPage->index()
+12 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LandingPage))
+13 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2025-04-08 11:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 11:57:36 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 11:58:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 11:58:21 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2025-04-08 11:58:21 --> ErrorException: Undefined property: stdClass::$alias
+[Method: GET, Route: perawatan/acne-series]
+in APPPATH\Views\user\templates\navbar.php on line 24.
+ 1 APPPATH\Views\user\templates\navbar.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$alias', 'D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php', 24)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(484): CodeIgniter\View\View->render('user/templates/navbar', null, true)
+ 5 APPPATH\Views\user\templates\layout.php(12): CodeIgniter\View\View->include('user/templates/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\layout.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('user/templates/layout', [], true)
+ 9 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/perawatan/index', [], true)
+10 APPPATH\Controllers\Perawatan.php(121): view('user/perawatan/index', [...])
+11 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Perawatan->index('acne-series')
+12 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perawatan))
+13 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2025-04-08 11:58:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 11:58:52 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 11:58:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 11:58:57 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2025-04-08 11:58:57 --> ErrorException: Undefined property: stdClass::$alias
+[Method: GET, Route: perawatan/anti-aging]
+in APPPATH\Views\user\templates\navbar.php on line 24.
+ 1 APPPATH\Views\user\templates\navbar.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$alias', 'D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php', 24)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(484): CodeIgniter\View\View->render('user/templates/navbar', null, true)
+ 5 APPPATH\Views\user\templates\layout.php(12): CodeIgniter\View\View->include('user/templates/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\layout.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('user/templates/layout', [], true)
+ 9 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/perawatan/index', [], true)
+10 APPPATH\Controllers\Perawatan.php(121): view('user/perawatan/index', [...])
+11 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Perawatan->index('anti-aging')
+12 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perawatan))
+13 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2025-04-08 11:59:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 11:59:03 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:00:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:00:15 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2025-04-08 12:00:15 --> ErrorException: Undefined variable $perawatan
+[Method: GET, Route: /]
+in APPPATH\Views\user\landing_page.php on line 77.
+ 1 APPPATH\Views\user\landing_page.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $perawatan', 'D:\\Project\\dlbeauty\\app\\Views\\user\\landing_page.php', 77)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\landing_page.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/landing_page', [], true)
+ 5 APPPATH\Controllers\LandingPage.php(68): view('user/landing_page', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LandingPage->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LandingPage))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2025-04-08 12:01:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:01:04 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:01:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:01:11 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:02:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:02:06 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:02:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:02:22 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:02:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:02:32 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:02:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:02:48 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2025-04-08 12:02:48 --> ErrorException: Undefined variable $list_perawatan
+[Method: GET, Route: perawatan/anti-aging/program]
+in APPPATH\Views\user\templates\navbar.php on line 22.
+ 1 APPPATH\Views\user\templates\navbar.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $list_perawatan', 'D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php', 22)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(484): CodeIgniter\View\View->render('user/templates/navbar', null, true)
+ 5 APPPATH\Views\user\templates\layout.php(12): CodeIgniter\View\View->include('user/templates/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\layout.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('user/templates/layout', [], true)
+ 9 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/perawatan/program', [], true)
+10 APPPATH\Controllers\Perawatan.php(216): view('user/perawatan/program', [...])
+11 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Perawatan->viewProgram('anti-aging')
+12 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perawatan))
+13 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2025-04-08 12:04:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:04:04 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:04:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:04:08 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:04:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:04:14 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:04:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:04:18 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:04:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:04:23 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:04:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:04:29 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2025-04-08 12:04:29 --> ErrorException: Undefined variable $list_perawatan
+[Method: GET, Route: konsultasi]
+in APPPATH\Views\user\templates\navbar.php on line 22.
+ 1 APPPATH\Views\user\templates\navbar.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $list_perawatan', 'D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php', 22)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(484): CodeIgniter\View\View->render('user/templates/navbar', null, true)
+ 5 APPPATH\Views\user\templates\layout.php(12): CodeIgniter\View\View->include('user/templates/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\layout.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('user/templates/layout', [], true)
+ 9 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/konsultasi/konsultasi', [], true)
+10 APPPATH\Controllers\Konsultasi.php(39): view('user/konsultasi/konsultasi', [...])
+11 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Konsultasi->index()
+12 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Konsultasi))
+13 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2025-04-08 12:04:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:04:54 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:05:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:05:28 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:05:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:05:34 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2025-04-08 12:05:34 --> ErrorException: Undefined variable $list_perawatan
+[Method: GET, Route: promo]
+in APPPATH\Views\user\templates\navbar.php on line 22.
+ 1 APPPATH\Views\user\templates\navbar.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $list_perawatan', 'D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php', 22)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(484): CodeIgniter\View\View->render('user/templates/navbar', null, true)
+ 5 APPPATH\Views\user\templates\layout.php(12): CodeIgniter\View\View->include('user/templates/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\layout.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('user/templates/layout', [], true)
+ 9 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/promo/promo', [], true)
+10 APPPATH\Controllers\Promo.php(40): view('user/promo/promo', [...])
+11 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Promo->index()
+12 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Promo))
+13 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2025-04-08 12:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:06:46 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:06:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:06:50 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2025-04-08 12:06:50 --> ErrorException: Undefined variable $list_perawatan
+[Method: GET, Route: artikel]
+in APPPATH\Views\user\templates\navbar.php on line 22.
+ 1 APPPATH\Views\user\templates\navbar.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $list_perawatan', 'D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php', 22)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(484): CodeIgniter\View\View->render('user/templates/navbar', null, true)
+ 5 APPPATH\Views\user\templates\layout.php(12): CodeIgniter\View\View->include('user/templates/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\layout.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('user/templates/layout', [], true)
+ 9 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/article/article', [], true)
+10 APPPATH\Controllers\Article.php(57): view('user/article/article', [...])
+11 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Article->index()
+12 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Article))
+13 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2025-04-08 12:07:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:07:48 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:07:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:07:57 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:08:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:08:00 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:08:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:08:05 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:08:11 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2025-04-08 12:08:11 --> ErrorException: Undefined variable $list_perawatan
+[Method: GET, Route: solusi]
+in APPPATH\Views\user\templates\navbar.php on line 22.
+ 1 APPPATH\Views\user\templates\navbar.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $list_perawatan', 'D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php', 22)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(484): CodeIgniter\View\View->render('user/templates/navbar', null, true)
+ 5 APPPATH\Views\user\templates\layout.php(12): CodeIgniter\View\View->include('user/templates/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\layout.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('user/templates/layout', [], true)
+ 9 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/solusi/index', [], true)
+10 APPPATH\Controllers\Solusi.php(45): view('user/solusi/index', [...])
+11 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Solusi->index()
+12 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Solusi))
+13 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2025-04-08 12:08:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:08:47 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:08:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:08:58 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:09:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:09:01 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:09:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:09:06 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:09:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:09:18 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2025-04-08 12:09:18 --> ErrorException: Undefined variable $list_perawatan
+[Method: GET, Route: produk/PRD002]
+in APPPATH\Views\user\templates\navbar.php on line 22.
+ 1 APPPATH\Views\user\templates\navbar.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $list_perawatan', 'D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php', 22)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(484): CodeIgniter\View\View->render('user/templates/navbar', null, true)
+ 5 APPPATH\Views\user\templates\layout.php(12): CodeIgniter\View\View->include('user/templates/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\layout.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('user/templates/layout', [], true)
+ 9 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/produk/detail_produk', [], true)
+10 APPPATH\Controllers\Produk.php(69): view('user/produk/detail_produk', [...])
+11 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Produk->detailProduk('PRD002')
+12 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produk))
+13 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2025-04-08 12:10:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:10:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:10:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:10:09 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:10:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:10:13 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:10:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:10:23 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:10:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:10:26 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2025-04-08 12:10:26 --> ErrorException: Undefined variable $list_perawatan
+[Method: GET, Route: klinik]
+in APPPATH\Views\user\templates\navbar.php on line 22.
+ 1 APPPATH\Views\user\templates\navbar.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $list_perawatan', 'D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php', 22)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(484): CodeIgniter\View\View->render('user/templates/navbar', null, true)
+ 5 APPPATH\Views\user\templates\layout.php(12): CodeIgniter\View\View->include('user/templates/navbar')
+ 6 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\templates\\layout.php')
+ 7 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(250): CodeIgniter\View\View->render('user/templates/layout', [], true)
+ 9 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/clinic/clinic', [], true)
+10 APPPATH\Controllers\Clinic.php(76): view('user/clinic/clinic', [...])
+11 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Clinic->index()
+12 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clinic))
+13 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+17 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2025-04-08 12:11:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:11:55 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:12:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:12:17 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:12:32 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:12:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-04-08 12:12:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:12:55 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:13:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:13:05 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:13:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:13:05 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:13:10 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:13:10 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:13:14 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:13:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:13:19 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:13:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:13:40 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 12:14:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 12:14:19 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:34:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:34:18 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:34:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:34:24 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:35:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:35:21 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:35:55 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:35:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:35:56 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:37:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:37:27 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:37:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:37:28 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:37:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:37:41 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:38:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:38:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:43:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:43:42 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:43:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:43:44 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:44:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:44:32 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:44:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:44:32 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:46:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:46:30 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:50:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:50:06 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2025-04-08 13:50:06 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: admin/perawatan/tambah]
+in APPPATH\Views\admin\perawatan\add.php on line 48.
+ 1 APPPATH\Views\admin\perawatan\add.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\Project\\dlbeauty\\app\\Views\\admin\\perawatan\\add.php', 48)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\admin\\perawatan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/perawatan/add', [], true)
+ 5 APPPATH\Controllers\Admin.php(770): view('admin/perawatan/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewAddPerawatan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2025-04-08 13:53:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:53:06 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2025-04-08 13:53:06 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: admin/perawatan/tambah]
+in APPPATH\Views\admin\perawatan\add.php on line 48.
+ 1 APPPATH\Views\admin\perawatan\add.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\Project\\dlbeauty\\app\\Views\\admin\\perawatan\\add.php', 48)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\admin\\perawatan\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/perawatan/add', [], true)
+ 5 APPPATH\Controllers\Admin.php(770): view('admin/perawatan/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewAddPerawatan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2025-04-08 13:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:54:19 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:54:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:54:57 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:55:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:55:43 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:57:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:57:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:57:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:57:26 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:57:36 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:57:45 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:57:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:57:50 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:58:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:58:01 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:58:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:58:10 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:58:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:58:37 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 13:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 13:59:39 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 14:00:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 14:00:13 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 14:00:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 14:00:33 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 14:53:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 14:53:50 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 14:54:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 14:54:06 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 14:54:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 14:54:06 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 14:54:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 14:54:38 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2025-04-08 14:54:38 --> ErrorException: Undefined array key "image"
+[Method: POST, Route: admin/perawatan/tambah/proses]
+in APPPATH\Controllers\Perawatan.php on line 285.
+ 1 APPPATH\Controllers\Perawatan.php(285): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "image"', 'D:\\Project\\dlbeauty\\app\\Controllers\\Perawatan.php', 285)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Perawatan->addPerawatan()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perawatan))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2025-04-08 14:56:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-04-08 14:56:02 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: POST, Route: admin/perawatan/tambah/proses]
+in APPPATH\Controllers\Perawatan.php on line 316.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}('D:\\Project\\dlbeauty\\vendor\\composer/../../app/Controllers/Perawatan.php')
+ 2 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Controllers\\Perawatan')
+ 3 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Perawatan', true)
+ 4 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2025-04-08 14:56:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 14:56:12 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 14:57:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 14:57:27 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2025-04-08 14:57:27 --> ErrorException: Undefined array key "gejala"
+[Method: POST, Route: admin/perawatan/tambah/proses]
+in APPPATH\Controllers\Perawatan.php on line 300.
+ 1 APPPATH\Controllers\Perawatan.php(300): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "gejala"', 'D:\\Project\\dlbeauty\\app\\Controllers\\Perawatan.php', 300)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Perawatan->addPerawatan()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perawatan))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2025-04-08 14:58:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 14:58:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2025-04-08 14:58:02 --> ErrorException: Undefined array key "gejala"
+[Method: POST, Route: admin/perawatan/tambah/proses]
+in APPPATH\Controllers\Perawatan.php on line 300.
+ 1 APPPATH\Controllers\Perawatan.php(300): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "gejala"', 'D:\\Project\\dlbeauty\\app\\Controllers\\Perawatan.php', 300)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Perawatan->addPerawatan()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perawatan))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2025-04-08 14:59:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 14:59:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 14:59:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 14:59:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 14:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 14:59:39 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 14:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 14:59:39 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 14:59:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 14:59:48 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2025-04-08 14:59:48 --> ErrorException: Attempt to read property "bgColor" on null
+[Method: GET, Route: perawatan/testing]
+in APPPATH\Views\user\perawatan\index.php on line 14.
+ 1 APPPATH\Views\user\perawatan\index.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "bgColor" on null', 'D:\\Project\\dlbeauty\\app\\Views\\user\\perawatan\\index.php', 14)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\user\\perawatan\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user/perawatan/index', [], true)
+ 5 APPPATH\Controllers\Perawatan.php(123): view('user/perawatan/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Perawatan->index('testing')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perawatan))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2025-04-08 14:59:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 14:59:54 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 14:59:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 14:59:59 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 15:06:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 15:06:23 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 15:08:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 15:08:00 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 15:09:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 15:09:26 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 15:09:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 15:09:35 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 15:11:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 15:11:31 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 15:15:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 15:15:58 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 15:16:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 15:16:24 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-04-08 15:19:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-04-08 15:19:23 --> Session: Sessions is enabled, and one exists. Please don't $session->start();

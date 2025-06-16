@@ -1,0 +1,1055 @@
+INFO - 2024-05-27 01:41:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:41:13 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:42:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:42:04 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:42:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:42:06 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:42:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:42:10 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:42:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:42:12 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:44:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:44:04 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:44:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:44:20 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:45:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:45:33 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:45:48 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:45:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:45:55 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:46:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:46:05 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:46:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:46:08 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:46:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:46:09 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:46:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:46:10 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:46:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:46:16 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:46:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:46:17 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:47:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:47:11 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:47:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:47:13 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:48:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:48:17 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:48:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:48:29 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:48:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:48:34 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:49:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:49:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:49:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:49:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:49:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:49:09 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:49:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:49:32 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:49:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:49:32 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:49:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:49:36 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:49:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:49:50 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:49:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:49:50 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:49:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:49:58 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:49:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:49:58 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:50:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:50:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:50:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:50:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:50:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:50:05 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:50:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:50:07 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:50:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:50:21 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:50:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:50:22 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:50:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:50:25 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:50:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:50:35 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:50:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:50:35 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:50:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:50:42 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:50:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:50:42 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 01:56:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 01:56:09 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 02:00:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 02:00:23 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 02:06:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 02:06:50 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 02:06:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 02:06:54 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 02:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 02:12:59 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 02:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 02:13:04 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 02:13:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 02:13:06 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 02:13:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 02:13:17 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 02:13:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 02:13:19 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-27 02:13:19 --> ErrorException: Undefined variable $kategori
+[Method: GET, Route: admin/klinik/tambah]
+in APPPATH\Views\admin\clinic\add.php on line 32.
+ 1 APPPATH\Views\admin\clinic\add.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kategori', 'D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\add.php', 32)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/clinic/add', [], true)
+ 5 APPPATH\Controllers\Admin.php(243): view('admin/clinic/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewAddClinic()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-27 02:13:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 02:13:36 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 02:35:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 02:35:06 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 02:35:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 02:35:30 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 02:35:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 02:35:43 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 02:36:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 02:36:00 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 02:36:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 02:36:15 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 02:36:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 02:36:40 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 02:36:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 02:36:47 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 02:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 02:37:15 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 02:38:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 02:38:50 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 02:42:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 02:42:44 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+ERROR - 2024-05-27 02:42:44 --> mysqli_sql_exception: Table 'db_dlbeauty.t_provinsi' doesn't exist in D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(308): mysqli->query('SELECT `k`.`id_...', 0)
+#1 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `k`.`id_...')
+#2 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `k`.`id_...')
+#3 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `k`.`id_...', Array, false)
+#4 D:\Project\dlbeauty\app\Models\ClinicModel.php(17): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Project\dlbeauty\app\Controllers\Admin.php(197): App\Models\ClinicModel->getClinic()
+#6 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Admin->viewClinic()
+#7 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\Project\dlbeauty\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbe...')
+#13 {main}
+CRITICAL - 2024-05-27 02:42:44 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_dlbeauty.t_provinsi' doesn't exist
+[Method: GET, Route: admin/klinik]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`, `p`.`nama` as `provinsi`, `kt`.`nama` as `kota`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`
+JOIN `t_provinsi` as `p` ON `l`.`id_provinsi` = `p`.`id_provinsi`
+JOIN `t_kota` as `kt` ON `kt`.`id_provinsi` = `p`.`id_provinsi`', [], false)
+ 2 APPPATH\Models\ClinicModel.php(17): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Admin.php(197): App\Models\ClinicModel->getClinic()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewClinic()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+CRITICAL - 2024-05-27 02:42:44 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_dlbeauty.t_provinsi' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`, `p`.`nama` as `provinsi`, `kt`.`nama` as `kota`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`
+JOIN `t_provinsi` as `p` ON `l`.`id_provinsi` = `p`.`id_provinsi`
+JOIN `t_kota` as `kt` ON `kt`.`id_provinsi` = `p`.`id_provinsi`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`, `p`.`nama` as `provinsi`, `kt`.`nama` as `kota`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`
+JOIN `t_provinsi` as `p` ON `l`.`id_provinsi` = `p`.`id_provinsi`
+JOIN `t_kota` as `kt` ON `kt`.`id_provinsi` = `p`.`id_provinsi`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`, `p`.`nama` as `provinsi`, `kt`.`nama` as `kota`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`
+JOIN `t_provinsi` as `p` ON `l`.`id_provinsi` = `p`.`id_provinsi`
+JOIN `t_kota` as `kt` ON `kt`.`id_provinsi` = `p`.`id_provinsi`', [], false)
+ 4 APPPATH\Models\ClinicModel.php(17): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Admin.php(197): App\Models\ClinicModel->getClinic()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewClinic()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+CRITICAL - 2024-05-27 02:42:44 --> [Caused by] mysqli_sql_exception: Table 'db_dlbeauty.t_provinsi' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`, `p`.`nama` as `provinsi`, `kt`.`nama` as `kota`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`
+JOIN `t_provinsi` as `p` ON `l`.`id_provinsi` = `p`.`id_provinsi`
+JOIN `t_kota` as `kt` ON `kt`.`id_provinsi` = `p`.`id_provinsi`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`, `p`.`nama` as `provinsi`, `kt`.`nama` as `kota`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`
+JOIN `t_provinsi` as `p` ON `l`.`id_provinsi` = `p`.`id_provinsi`
+JOIN `t_kota` as `kt` ON `kt`.`id_provinsi` = `p`.`id_provinsi`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`, `p`.`nama` as `provinsi`, `kt`.`nama` as `kota`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`
+JOIN `t_provinsi` as `p` ON `l`.`id_provinsi` = `p`.`id_provinsi`
+JOIN `t_kota` as `kt` ON `kt`.`id_provinsi` = `p`.`id_provinsi`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`, `p`.`nama` as `provinsi`, `kt`.`nama` as `kota`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`
+JOIN `t_provinsi` as `p` ON `l`.`id_provinsi` = `p`.`id_provinsi`
+JOIN `t_kota` as `kt` ON `kt`.`id_provinsi` = `p`.`id_provinsi`', [], false)
+ 5 APPPATH\Models\ClinicModel.php(17): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Admin.php(197): App\Models\ClinicModel->getClinic()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewClinic()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-27 02:43:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 02:43:24 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+ERROR - 2024-05-27 02:43:24 --> mysqli_sql_exception: Unknown column 'l.id_provinsi' in 'field list' in D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(308): mysqli->query('SELECT `k`.`id_...', 0)
+#1 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `k`.`id_...')
+#2 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `k`.`id_...')
+#3 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `k`.`id_...', Array, false)
+#4 D:\Project\dlbeauty\app\Models\ClinicModel.php(15): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Project\dlbeauty\app\Controllers\Admin.php(197): App\Models\ClinicModel->getClinic()
+#6 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Admin->viewClinic()
+#7 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\Project\dlbeauty\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbe...')
+#13 {main}
+CRITICAL - 2024-05-27 02:43:24 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'l.id_provinsi' in 'field list'
+[Method: GET, Route: admin/klinik]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`', [], false)
+ 2 APPPATH\Models\ClinicModel.php(15): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Admin.php(197): App\Models\ClinicModel->getClinic()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewClinic()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+CRITICAL - 2024-05-27 02:43:24 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'l.id_provinsi' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`', [], false)
+ 4 APPPATH\Models\ClinicModel.php(15): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Admin.php(197): App\Models\ClinicModel->getClinic()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewClinic()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+CRITICAL - 2024-05-27 02:43:24 --> [Caused by] mysqli_sql_exception: Unknown column 'l.id_provinsi' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`', [], false)
+ 5 APPPATH\Models\ClinicModel.php(15): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Admin.php(197): App\Models\ClinicModel->getClinic()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewClinic()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-27 03:00:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:00:28 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+ERROR - 2024-05-27 03:00:28 --> mysqli_sql_exception: Unknown column 'l.id_provinsi' in 'field list' in D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(308): mysqli->query('SELECT `k`.`id_...', 0)
+#1 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `k`.`id_...')
+#2 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `k`.`id_...')
+#3 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `k`.`id_...', Array, false)
+#4 D:\Project\dlbeauty\app\Models\ClinicModel.php(15): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Project\dlbeauty\app\Controllers\Admin.php(197): App\Models\ClinicModel->getClinic()
+#6 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Admin->viewClinic()
+#7 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\Project\dlbeauty\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbe...')
+#13 {main}
+CRITICAL - 2024-05-27 03:00:28 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'l.id_provinsi' in 'field list'
+[Method: GET, Route: admin/klinik]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`', [], false)
+ 2 APPPATH\Models\ClinicModel.php(15): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Admin.php(197): App\Models\ClinicModel->getClinic()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewClinic()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+CRITICAL - 2024-05-27 03:00:28 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'l.id_provinsi' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`', [], false)
+ 4 APPPATH\Models\ClinicModel.php(15): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Admin.php(197): App\Models\ClinicModel->getClinic()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewClinic()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+CRITICAL - 2024-05-27 03:00:28 --> [Caused by] mysqli_sql_exception: Unknown column 'l.id_provinsi' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`id_provinsi`, `l`.`alamat`, `l`.`link_alamat`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`', [], false)
+ 5 APPPATH\Models\ClinicModel.php(15): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Admin.php(197): App\Models\ClinicModel->getClinic()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewClinic()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-27 03:00:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:00:46 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+ERROR - 2024-05-27 03:00:47 --> mysqli_sql_exception: Unknown column 'p.nama' in 'field list' in D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(308): mysqli->query('SELECT `k`.`id_...', 0)
+#1 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `k`.`id_...')
+#2 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `k`.`id_...')
+#3 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `k`.`id_...', Array, false)
+#4 D:\Project\dlbeauty\app\Models\ClinicModel.php(15): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Project\dlbeauty\app\Controllers\Admin.php(197): App\Models\ClinicModel->getClinic()
+#6 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Admin->viewClinic()
+#7 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\Project\dlbeauty\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbe...')
+#13 {main}
+CRITICAL - 2024-05-27 03:00:47 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'p.nama' in 'field list'
+[Method: GET, Route: admin/klinik]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`alamat`, `l`.`link_alamat`, `p`.`nama` as `provinsi`, `kt`.`nama` as `kota`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`', [], false)
+ 2 APPPATH\Models\ClinicModel.php(15): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Admin.php(197): App\Models\ClinicModel->getClinic()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewClinic()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+CRITICAL - 2024-05-27 03:00:47 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'p.nama' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`alamat`, `l`.`link_alamat`, `p`.`nama` as `provinsi`, `kt`.`nama` as `kota`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`alamat`, `l`.`link_alamat`, `p`.`nama` as `provinsi`, `kt`.`nama` as `kota`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`alamat`, `l`.`link_alamat`, `p`.`nama` as `provinsi`, `kt`.`nama` as `kota`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`', [], false)
+ 4 APPPATH\Models\ClinicModel.php(15): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\Admin.php(197): App\Models\ClinicModel->getClinic()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewClinic()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+CRITICAL - 2024-05-27 03:00:47 --> [Caused by] mysqli_sql_exception: Unknown column 'p.nama' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`alamat`, `l`.`link_alamat`, `p`.`nama` as `provinsi`, `kt`.`nama` as `kota`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`alamat`, `l`.`link_alamat`, `p`.`nama` as `provinsi`, `kt`.`nama` as `kota`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`alamat`, `l`.`link_alamat`, `p`.`nama` as `provinsi`, `kt`.`nama` as `kota`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `k`.`id_klinik`, `k`.`nama` as `nama_klinik`, `k`.`deskripsi`, `k`.`foto`, `k`.`no_wa`, `l`.`nama` as `lokasi`, `l`.`alamat`, `l`.`link_alamat`, `p`.`nama` as `provinsi`, `kt`.`nama` as `kota`
+FROM `t_klinik` as `k`
+JOIN `t_lokasi_klinik` as `l` ON `l`.`id_lokasi_klinik` = `k`.`id_lokasi_klinik`', [], false)
+ 5 APPPATH\Models\ClinicModel.php(15): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Admin.php(197): App\Models\ClinicModel->getClinic()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewClinic()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-27 03:01:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:01:28 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:02:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:02:22 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:02:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:02:48 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-27 03:02:48 --> ErrorException: Undefined variable $kategori
+[Method: GET, Route: admin/klinik/tambah]
+in APPPATH\Views\admin\clinic\add.php on line 53.
+ 1 APPPATH\Views\admin\clinic\add.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kategori', 'D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\add.php', 53)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/clinic/add', [], true)
+ 5 APPPATH\Controllers\Admin.php(243): view('admin/clinic/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewAddClinic()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-27 03:03:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:03:42 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-27 03:03:42 --> ErrorException: Undefined variable $kategori
+[Method: GET, Route: admin/klinik/tambah]
+in APPPATH\Views\admin\clinic\add.php on line 53.
+ 1 APPPATH\Views\admin\clinic\add.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kategori', 'D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\add.php', 53)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/clinic/add', [], true)
+ 5 APPPATH\Controllers\Admin.php(243): view('admin/clinic/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewAddClinic()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-27 03:03:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:03:44 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-27 03:03:44 --> ErrorException: Undefined variable $kategori
+[Method: GET, Route: admin/klinik/tambah]
+in APPPATH\Views\admin\clinic\add.php on line 53.
+ 1 APPPATH\Views\admin\clinic\add.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kategori', 'D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\add.php', 53)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/clinic/add', [], true)
+ 5 APPPATH\Controllers\Admin.php(243): view('admin/clinic/add')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewAddClinic()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-27 03:04:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:04:14 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:04:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:04:40 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:05:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:05:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:52:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:52:32 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:54:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:54:05 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:56:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:56:08 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:56:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:56:20 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:56:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:56:28 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:56:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:56:42 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:56:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:56:53 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:57:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:57:01 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:57:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:57:14 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:57:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:57:26 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:57:36 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:57:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:57:53 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:58:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:58:07 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:58:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:58:28 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:58:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:58:58 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:59:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:59:46 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 03:59:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 03:59:56 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:00:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:00:06 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:00:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:00:20 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:00:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:00:32 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:01:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:01:00 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:01:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:01:17 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:01:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:01:57 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:02:17 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:02:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:02:42 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:02:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:02:58 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:03:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:03:19 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:03:29 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:03:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:03:41 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:04:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:04:13 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:05:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:05:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:05:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:05:26 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:05:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:05:43 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:09:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:09:38 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:11:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:11:28 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:11:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:11:51 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:12:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:12:17 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:12:53 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:12:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:12:55 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:13:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:13:56 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:14:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:14:24 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:14:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:14:59 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:15:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:15:16 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:16:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:16:04 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:16:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:16:13 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:16:39 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:17:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:17:19 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:17:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:17:21 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:17:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:17:25 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:19:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:19:55 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:21:08 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:23:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:23:18 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:23:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:23:27 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:23:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:23:29 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:23:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:23:34 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:23:36 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:24:06 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:25:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:25:05 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:31:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:31:57 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:34:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:34:06 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:45:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:45:34 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:45:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:45:43 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:46:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:46:00 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:46:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:46:05 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:47:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:47:13 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:51:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:51:03 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:51:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:51:05 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:51:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:51:07 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:51:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:51:10 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:55:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:55:03 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:55:06 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:55:12 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:55:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:55:48 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:56:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:56:40 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 04:56:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 04:56:42 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:22:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:22:49 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:23:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:23:45 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:24:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:24:12 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:24:18 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:24:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:24:19 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:24:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:24:24 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:27:43 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:32:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:32:54 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:35:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:35:53 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:36:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:36:11 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:49:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:49:51 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-27 08:49:51 --> ErrorException: Undefined array key "lokasi"
+[Method: POST, Route: admin/klinik/tambah/proses]
+in APPPATH\Controllers\Clinic.php on line 65.
+ 1 APPPATH\Controllers\Clinic.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "lokasi"', 'D:\\Project\\dlbeauty\\app\\Controllers\\Clinic.php', 65)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Clinic->addClinic()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clinic))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-27 08:50:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:50:04 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-27 08:50:04 --> ErrorException: Undefined array key "lokasi"
+[Method: POST, Route: admin/klinik/tambah/proses]
+in APPPATH\Controllers\Clinic.php on line 65.
+ 1 APPPATH\Controllers\Clinic.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "lokasi"', 'D:\\Project\\dlbeauty\\app\\Controllers\\Clinic.php', 65)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Clinic->addClinic()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clinic))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-27 08:50:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:50:17 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:50:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:50:30 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-27 08:50:30 --> ErrorException: Undefined array key "cara_pemakaian"
+[Method: POST, Route: admin/klinik/tambah/proses]
+in APPPATH\Controllers\Clinic.php on line 76.
+ 1 APPPATH\Controllers\Clinic.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "cara_pemakaian"', 'D:\\Project\\dlbeauty\\app\\Controllers\\Clinic.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Clinic->addClinic()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clinic))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-27 08:50:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:50:35 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:52:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:52:57 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:53:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:53:28 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:53:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:53:32 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:53:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:53:58 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:56:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:56:54 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:57:22 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:58:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:58:18 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+ERROR - 2024-05-27 08:58:18 --> mysqli_sql_exception: Table 'db_dlbeauty.t_jam_operasional' doesn't exist in D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `t_...', 0)
+#1 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_...')
+#2 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_...')
+#3 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_...', Array, false)
+#4 D:\Project\dlbeauty\app\Models\ClinicModel.php(73): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\Project\dlbeauty\app\Controllers\Clinic.php(83): App\Models\ClinicModel->addOperationalHour(Array)
+#6 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Clinic->addClinic()
+#7 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clinic))
+#8 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 D:\Project\dlbeauty\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 D:\Project\dlbeauty\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbe...')
+#13 {main}
+CRITICAL - 2024-05-27 08:58:18 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_dlbeauty.t_jam_operasional' doesn't exist
+[Method: POST, Route: admin/klinik/tambah/proses]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_jam_operasional` (`id_klinik`, `id_dokter`, `hari`, `jam`) VALUES (:id_klinik:, :id_dokter:, :hari:, :jam:)', [...], false)
+ 2 APPPATH\Models\ClinicModel.php(73): CodeIgniter\Database\BaseBuilder->insert()
+ 3 APPPATH\Controllers\Clinic.php(83): App\Models\ClinicModel->addOperationalHour([...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Clinic->addClinic()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clinic))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+CRITICAL - 2024-05-27 08:58:18 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_dlbeauty.t_jam_operasional' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_jam_operasional` (`id_klinik`, `id_dokter`, `hari`, `jam`) VALUES (\'KLN001\', \'DKT001\', \'Senin\', \'08.00 - 24.00\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_jam_operasional` (`id_klinik`, `id_dokter`, `hari`, `jam`) VALUES (\'KLN001\', \'DKT001\', \'Senin\', \'08.00 - 24.00\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_jam_operasional` (`id_klinik`, `id_dokter`, `hari`, `jam`) VALUES (:id_klinik:, :id_dokter:, :hari:, :jam:)', [...], false)
+ 4 APPPATH\Models\ClinicModel.php(73): CodeIgniter\Database\BaseBuilder->insert()
+ 5 APPPATH\Controllers\Clinic.php(83): App\Models\ClinicModel->addOperationalHour([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Clinic->addClinic()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clinic))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+CRITICAL - 2024-05-27 08:58:18 --> [Caused by] mysqli_sql_exception: Table 'db_dlbeauty.t_jam_operasional' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `t_jam_operasional` (`id_klinik`, `id_dokter`, `hari`, `jam`) VALUES (\'KLN001\', \'DKT001\', \'Senin\', \'08.00 - 24.00\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `t_jam_operasional` (`id_klinik`, `id_dokter`, `hari`, `jam`) VALUES (\'KLN001\', \'DKT001\', \'Senin\', \'08.00 - 24.00\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `t_jam_operasional` (`id_klinik`, `id_dokter`, `hari`, `jam`) VALUES (\'KLN001\', \'DKT001\', \'Senin\', \'08.00 - 24.00\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `t_jam_operasional` (`id_klinik`, `id_dokter`, `hari`, `jam`) VALUES (:id_klinik:, :id_dokter:, :hari:, :jam:)', [...], false)
+ 5 APPPATH\Models\ClinicModel.php(73): CodeIgniter\Database\BaseBuilder->insert()
+ 6 APPPATH\Controllers\Clinic.php(83): App\Models\ClinicModel->addOperationalHour([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Clinic->addClinic()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clinic))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-27 08:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:59:33 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:59:33 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:59:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:59:37 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:59:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:59:48 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 08:59:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 08:59:58 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:00:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:00:00 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-27 09:00:00 --> ErrorException: Undefined property: stdClass::$nama
+[Method: GET, Route: admin/klinik]
+in APPPATH\Views\admin\clinic\index.php on line 38.
+ 1 APPPATH\Views\admin\clinic\index.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$nama', 'D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\index.php', 38)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/clinic/index', [], true)
+ 5 APPPATH\Controllers\Admin.php(225): view('admin/clinic/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewClinic()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-27 09:00:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:00:20 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-27 09:00:20 --> ErrorException: Undefined property: stdClass::$jenis_kulit
+[Method: GET, Route: admin/klinik]
+in APPPATH\Views\admin\clinic\index.php on line 41.
+ 1 APPPATH\Views\admin\clinic\index.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$jenis_kulit', 'D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\index.php', 41)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/clinic/index', [], true)
+ 5 APPPATH\Controllers\Admin.php(225): view('admin/clinic/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewClinic()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-27 09:01:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:01:37 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-27 09:01:37 --> ErrorException: Undefined property: stdClass::$nama
+[Method: GET, Route: admin/klinik]
+in APPPATH\Views\admin\clinic\index.php on line 72.
+ 1 APPPATH\Views\admin\clinic\index.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$nama', 'D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\index.php', 72)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/clinic/index', [], true)
+ 5 APPPATH\Controllers\Admin.php(225): view('admin/clinic/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewClinic()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-27 09:01:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:01:45 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:14:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:14:28 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:16:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:16:51 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-27 09:16:51 --> ErrorException: Undefined array key "nama"
+[Method: GET, Route: admin/klinik/edit/KLN001]
+in APPPATH\Views\admin\clinic\edit.php on line 19.
+ 1 APPPATH\Views\admin\clinic\edit.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\edit.php', 19)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/clinic/edit', [], true)
+ 5 APPPATH\Controllers\Admin.php(273): view('admin/clinic/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewEditClinic('KLN001')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-27 09:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:17:05 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-27 09:17:05 --> ErrorException: Undefined array key "selected"
+[Method: GET, Route: admin/klinik/edit/KLN001]
+in APPPATH\Views\admin\clinic\edit.php on line 47.
+ 1 APPPATH\Views\admin\clinic\edit.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "selected"', 'D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\edit.php', 47)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/clinic/edit', [], true)
+ 5 APPPATH\Controllers\Admin.php(273): view('admin/clinic/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewEditClinic('KLN001')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-27 09:17:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:17:28 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-27 09:17:28 --> ErrorException: Undefined array key "selected"
+[Method: GET, Route: admin/klinik/edit/KLN001]
+in APPPATH\Views\admin\clinic\edit.php on line 47.
+ 1 APPPATH\Views\admin\clinic\edit.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "selected"', 'D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\edit.php', 47)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/clinic/edit', [], true)
+ 5 APPPATH\Controllers\Admin.php(273): view('admin/clinic/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewEditClinic('KLN001')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-27 09:19:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:19:25 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-27 09:19:25 --> ErrorException: Undefined array key "id_lokasi_klinik"
+[Method: GET, Route: admin/klinik/edit/KLN001]
+in APPPATH\Views\admin\clinic\edit.php on line 47.
+ 1 APPPATH\Views\admin\clinic\edit.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_lokasi_klinik"', 'D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\edit.php', 47)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/clinic/edit', [], true)
+ 5 APPPATH\Controllers\Admin.php(273): view('admin/clinic/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewEditClinic('KLN001')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-27 09:20:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:20:27 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:21:00 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:26:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:26:00 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:33:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:33:14 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+CRITICAL - 2024-05-27 09:33:14 --> ErrorException: Undefined variable $operationHour
+[Method: GET, Route: admin/klinik/edit/KLN001]
+in APPPATH\Views\admin\clinic\edit.php on line 76.
+ 1 APPPATH\Views\admin\clinic\edit.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $operationHour', 'D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\edit.php', 76)
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\Project\\dlbeauty\\app\\Views\\admin\\clinic\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/clinic/edit', [], true)
+ 5 APPPATH\Controllers\Admin.php(274): view('admin/clinic/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->viewEditClinic('KLN001')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('D:\\Project\\dlbeauty\\public\\index.php')
+INFO - 2024-05-27 09:33:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:33:25 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:33:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:33:45 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:34:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:34:02 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:34:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:34:03 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:35:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:35:20 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:35:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:35:22 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:35:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:35:58 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:35:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:35:59 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:37:01 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:37:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:37:04 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:37:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:37:14 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:37:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:37:14 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:37:52 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:37:52 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:41:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:41:23 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:41:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:41:25 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:41:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:41:27 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:41:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:41:35 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:42:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:42:01 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:42:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:42:03 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:42:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:42:04 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:42:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:42:07 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:42:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:42:09 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:42:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:42:12 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:42:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:42:16 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:42:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:42:18 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:42:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:42:20 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:42:22 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:42:24 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:42:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:42:54 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:42:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:42:58 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:42:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:42:59 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:43:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:43:01 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:43:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:43:03 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:43:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:43:05 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:43:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:43:18 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:43:30 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:43:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:43:32 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:43:34 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:43:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:43:35 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:43:38 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:43:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:43:40 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:43:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:43:44 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:43:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:43:46 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:43:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:43:48 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:43:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:43:50 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:43:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:43:52 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2024-05-27 09:50:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-05-27 09:50:40 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
