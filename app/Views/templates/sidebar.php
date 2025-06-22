@@ -73,7 +73,7 @@ $route = $_SESSION['route'][count($_SESSION['route']) - 1];
 
                     <li>
                         <a class="group relative flex items-center gap-2.5 rounded-lg px-4 py-2 duration-300 ease-in-out <?= $route->name === 'log activity' ? 'bg-orange-100 text-primary dark:bg-meta-4 font-semibold' : 'text-gray-500 hover:bg-gray-100 dark:hover:bg-meta-4 font-medium' ?>" href="<?= base_url('log-activity') ?>">
-                            <i class="fas fa-truck-loading"></i>
+                            <i class="fas fa-clipboard-list"></i>
                             Log Activity
                         </a>
                     </li>

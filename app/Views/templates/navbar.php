@@ -69,8 +69,8 @@ $user = $_SESSION['isLogged'];
                         <!-- <span class="block text-xs font-medium">Admin</span> -->
                     </span>
 
-                    <span class="h-12 w-12 rounded-full">
-                        <img src="<?= base_url('images/user-01.png') ?>" alt="User" />
+                    <span class="!h-8 !w-8 text-lg rounded-full bg-gray-300 text-gray-400 flex items-center justify-center">
+                        <i class="fas fa-user"></i>
                     </span>
 
                     <svg :class="dropdownOpen && 'rotate-180'" class="hidden fill-current sm:block" width="12" height="8" viewBox="0 0 12 8" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -82,7 +82,7 @@ $user = $_SESSION['isLogged'];
                 <div x-show="dropdownOpen" class="absolute right-0 mt-4 flex w-60 p-2 gap-2 flex-col rounded-lg border border-stroke bg-white shadow-default dark:border-strokedark dark:bg-boxdark">
                     <ul class="flex flex-col gap-5 border-b pb-2 border-stroke dark:border-strokedark">
                         <li>
-                            <a href="profile.html" class="flex items-center rounded-lg gap-3.5 px-4 py-2 text-sm  text-gray-500 font-medium duration-300 ease-in-out hover:bg-gray-100">
+                            <a href="<?= base_url('/profile')?>" class="flex items-center rounded-lg gap-3.5 px-4 py-2 text-sm  text-gray-500 font-medium duration-300 ease-in-out hover:bg-gray-100">
                                 <i class="far fa-user"></i>
                                 My Profile
                             </a>

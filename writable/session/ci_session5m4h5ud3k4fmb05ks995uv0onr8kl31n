@@ -1,1 +1,0 @@
-__ci_last_regenerate|i:1750040650;route|a:2:{i:0;O:8:"stdClass":2:{s:4:"name";s:10:"production";s:3:"url";s:0:"";}i:1;O:8:"stdClass":2:{s:4:"name";s:7:"inbound";s:3:"url";s:19:"/production/inbound";}}

@@ -32,6 +32,16 @@ $errors = session()->getFlashdata('validationError');
                                     <p><?= session()->getFlashdata('gagal'); ?></p>
                                 </div>
                             </div>
+                        <?php }
+                        if (session()->getFlashdata('sukses')) { ?>
+                            <div class="mb-4 px-8 py-4 z-999 bg-green-400 text-white flex justify-between gap-6 rounded">
+                                <div class="flex items-center">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7 mr-6" viewBox="0 0 20 20" fill="currentColor">
+                                        <path fill-rule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clip-rule="evenodd" />
+                                    </svg>
+                                    <p><?= session()->getFlashdata('sukses'); ?></p>
+                                </div>
+                            </div>
                         <?php } ?>
 
                         <form action="<?= base_url('signin/process') ?>" method="post">
@@ -73,7 +83,7 @@ $errors = session()->getFlashdata('validationError');
                             </div>
 
                             <div class="mb-5">
-                                <p>Don't have an account? <a href="<?= base_url('/signup')?>" class="text-primary">Sign Up</a></p>
+                                <p>Don't have an account? <a href="<?= base_url('/signup') ?>" class="text-primary">Sign Up</a></p>
                             </div>
 
                         </form>

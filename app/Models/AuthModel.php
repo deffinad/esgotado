@@ -10,4 +10,9 @@ class AuthModel extends Model
     {
         return $this->db->table('t_user')->where(['email' => $email, 'password' => $password])->get()->getRowArray();
     }
+
+    public function signup($data)
+    {
+        return $this->db->table('t_user')->set($data)->insert();
+    }
 }

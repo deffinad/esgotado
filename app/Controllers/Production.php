@@ -2,16 +2,29 @@
 
 namespace App\Controllers;
 
+use App\Models\InboundModel;
+use App\Models\InventoryModel;
+use App\Models\LogActivityModel;
+use App\Models\OutboundModel;
 use PhpParser\Node\Stmt\Break_;
 
 class Production extends BaseController
 {
     protected $session;
+    protected $mInventory;
+    protected $mInbound;
+    protected $mOutbound;
+    protected $mLog;
 
     public function __construct()
     {
         $this->session = \Config\Services::session();
         $this->session->start();
+
+        $this->mInventory = new InventoryModel();
+        $this->mInbound = new InboundModel();
+        $this->mOutbound = new OutboundModel();
+        $this->mLog = new LogActivityModel();
     }
 
     public function inboundView()
@@ -28,7 +41,8 @@ class Production extends BaseController
         ];
 
         $this->session->set('route', $breadcrumb);
-        return view('production/inbound/index');
+        $data['list'] = $this->mInbound->getInbound();
+        return view('production/inbound/index', $data);
     }
 
     public function addInboundView()
@@ -49,10 +63,11 @@ class Production extends BaseController
         ];
 
         $this->session->set('route', $breadcrumb);
-        return view('production/inbound/add');
+        $data['inventory'] = $this->mInventory->getInventory();
+        return view('production/inbound/add', $data);
     }
 
-    public function editInboundView()
+    public function editInboundView($id)
     {
         $breadcrumb = [
             (object) [
@@ -70,7 +85,9 @@ class Production extends BaseController
         ];
 
         $this->session->set('route', $breadcrumb);
-        return view('production/inbound/edit');
+        $data['inventory'] = $this->mInventory->getInventory();
+        $data['inbound'] = $this->mInbound->getInboundById($id);
+        return view('production/inbound/edit', $data);
     }
 
     public function outboundView()
@@ -87,7 +104,8 @@ class Production extends BaseController
         ];
 
         $this->session->set('route', $breadcrumb);
-        return view('production/outbound/index');
+        $data['list'] = $this->mOutbound->getOutbound();
+        return view('production/outbound/index', $data);
     }
 
     public function addOutboundView()
@@ -108,10 +126,11 @@ class Production extends BaseController
         ];
 
         $this->session->set('route', $breadcrumb);
-        return view('production/outbound/add');
+        $data['inventory'] = $this->mInventory->getInventory();
+        return view('production/outbound/add', $data);
     }
 
-    public function editOutboundView()
+    public function editOutboundView($id)
     {
         $breadcrumb = [
             (object) [
@@ -129,7 +148,9 @@ class Production extends BaseController
         ];
 
         $this->session->set('route', $breadcrumb);
-        return view('production/outbound/edit');
+        $data['inventory'] = $this->mInventory->getInventory();
+        $data['outbound'] = $this->mOutbound->getOutboundById($id);
+        return view('production/outbound/edit', $data);
     }
 
     public function inventoryView()
@@ -146,7 +167,8 @@ class Production extends BaseController
         ];
 
         $this->session->set('route', $breadcrumb);
-        return view('production/inventory/index');
+        $data['list'] = $this->mInventory->getInventory();
+        return view('production/inventory/index', $data);
     }
 
     public function addInventoryView()
@@ -170,7 +192,7 @@ class Production extends BaseController
         return view('production/inventory/add');
     }
 
-    public function editInventoryView()
+    public function editInventoryView($id)
     {
         $breadcrumb = [
             (object) [
@@ -188,7 +210,8 @@ class Production extends BaseController
         ];
 
         $this->session->set('route', $breadcrumb);
-        return view('production/inventory/edit');
+        $data['inventory'] = $this->mInventory->getInventoryById($id);
+        return view('production/inventory/edit', $data);
     }
 
     public function historyView()
@@ -205,7 +228,22 @@ class Production extends BaseController
         ];
 
         $this->session->set('route', $breadcrumb);
-        return view('production/history/index');
+        $inbound = $this->mInbound->getInbound();
+        $outbound = $this->mOutbound->getOutbound();
+        
+        $data['list'] = [];
+
+        foreach($inbound as $val){
+            $val->type = 'in';
+            array_push($data['list'], $val);
+        }
+
+        foreach($outbound as $val){
+            $val->type = 'out';
+            array_push($data['list'], $val);
+        }
+
+        return view('production/history/index', $data);
     }
 
     public function logActivityView()
@@ -218,6 +256,8 @@ class Production extends BaseController
         ];
 
         $this->session->set('route', $breadcrumb);
-        return view('/logActivity/index');
+        $data['list'] = $this->mLog->getLog();;
+
+        return view('/logActivity/index', $data);
     }
 }

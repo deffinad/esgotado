@@ -1,1 +1,0 @@
-__ci_last_regenerate|i:1749996790;route|a:2:{i:0;O:8:"stdClass":2:{s:4:"name";s:10:"production";s:3:"url";s:0:"";}i:1;O:8:"stdClass":2:{s:4:"name";s:7:"inbound";s:3:"url";s:19:"/production/inbound";}}isLogged|a:1:{s:4:"nama";s:6:"deffin";}_ci_previous_url|s:40:"http://localhost:8080/production/inbound";

@@ -1,1 +1,0 @@
-__ci_last_regenerate|i:1747968412;route|a:3:{i:0;O:8:"stdClass":2:{s:4:"name";s:7:"beranda";s:3:"url";s:1:"/";}i:1;O:8:"stdClass":2:{s:4:"name";s:5:"promo";s:3:"url";s:6:"/promo";}i:2;O:8:"stdClass":2:{s:4:"name";s:12:"detail promo";s:3:"url";s:13:"/promo/PRM001";}}role|s:4:"user";_ci_previous_url|s:34:"http://localhost:8080/promo/PRM001";

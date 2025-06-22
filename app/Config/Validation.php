@@ -46,14 +46,121 @@ class Validation extends BaseConfig
         'email' => [
             'rules' => 'required|valid_email',
             'errors' => [
-                'required' => 'Email Wajib Diisi',
-                'valid_email' => 'Email Tidak Valid'
+                'required' => 'Email is required',
+                'valid_email' => 'Email not valid'
             ]
         ],
         'password' => [
             'rules' => 'required',
             'errors' => [
-                'required' => 'Password Wajib Diisi',
+                'required' => 'Password is required',
+            ]
+        ],
+    ];
+
+    public $signup = [
+        'name' => [
+            'rules' => 'required',
+            'errors' => [
+                'required' => 'Name is required',
+            ]
+        ],
+        'email' => [
+            'rules' => 'required|valid_email',
+            'errors' => [
+                'required' => 'Email is required',
+                'valid_email' => 'Email not valid'
+            ]
+        ],
+        'password' => [
+            'rules' => 'required',
+            'errors' => [
+                'required' => 'Password is required',
+            ]
+        ],
+        'conf_password' => [
+            'rules' => 'required|matches[password]',
+            'errors' => [
+                'required' => 'Confirm Password is required',
+                'matches' => 'Confirm password is not the same'
+            ]
+        ],
+         'phone' => [
+            'rules' => 'required',
+            'errors' => [
+                'required' => 'Phone is required',
+            ]
+        ],
+         'address' => [
+            'rules' => 'required',
+            'errors' => [
+                'required' => 'Address is required',
+            ]
+        ],
+    ];
+
+    public $production = [
+        'date' => [
+            'rules' => 'required',
+            'errors' => [
+                'required' => 'Date is required',
+            ]
+        ],
+        'type_materials' => [
+            'rules' => 'required',
+            'errors' => [
+                'required' => 'Type of materials is required',
+            ]
+        ],
+        'amount' => [
+            'rules' => 'required',
+            'errors' => [
+                'required' => 'Amount is required',
+            ]
+        ],
+        'code' => [
+            'rules' => 'required',
+            'errors' => [
+                'required' => 'Code/SKU is required',
+            ]
+        ],
+        'unit' => [
+            'rules' => 'required',
+            'errors' => [
+                'required' => 'Unit is required',
+            ]
+        ],
+        'serial_number' => [
+            'rules' => 'required',
+            'errors' => [
+                'required' => 'Serial number is required',
+            ]
+        ],
+    ];
+
+    public $inventory = [
+        'type_materials' => [
+            'rules' => 'required',
+            'errors' => [
+                'required' => 'Type of materials is required',
+            ]
+        ],
+        'amount' => [
+            'rules' => 'required',
+            'errors' => [
+                'required' => 'Amount is required',
+            ]
+        ],
+        'code' => [
+            'rules' => 'required',
+            'errors' => [
+                'required' => 'Code/SKU is required',
+            ]
+        ],
+        'unit' => [
+            'rules' => 'required',
+            'errors' => [
+                'required' => 'Unit is required',
             ]
         ],
     ];

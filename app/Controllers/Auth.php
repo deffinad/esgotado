@@ -61,22 +61,35 @@ class Auth extends BaseController
         $input = $this->request->getPost();
 
         $validation = [
+            'name' => $input['name'],
             'email' => $input['email'],
-            'password' => $input['password']
+            'password' => $input['password'],
+            'conf_password' => $input['conf_password'],
+            'phone' => $input['phone'],
+            'address' => $input['address'],
         ];
 
-        if (!$this->validation->run($validation, 'signin')) {
+        if (!$this->validation->run($validation, 'signup')) {
             $this->session->setFlashdata('input', $this->request->getPost());
             $this->session->setFlashdata('validationError', $this->validation->getErrors());
             $this->session->setFlashdata('gagal', 'Mohon Maaf Masukan Data Dengan Benar');
             return redirect()->back();
         } else {
-            $result = $this->mAuth->signin($input['email'], sha1($input['password']));
-            if ($result > 0) {
-                $this->session->set('isLogged', $result);
-                return redirect()->to('/');
+            $data = [
+                'nama' => $input['name'],
+                'email' => $input['email'],
+                'password' => sha1($input['password']),
+                'level' => 'Staff',
+                'phone' => $input['phone'],
+                'address' => $input['address'],
+            ];
+
+            $result = $this->mAuth->signup($data);
+            if ($result) {
+                $this->session->setFlashdata('sukses', 'Data User Berhasil Ditambahkan');
+                return redirect()->to('/signin');
             } else {
-                $this->session->setFlashdata('gagal', 'Mohon Maaf Email/Password Salah');
+                $this->session->setFlashdata('gagal', 'Mohon Maaf Masukan Data Dengan Benar');
                 return redirect()->back();
             }
         }
