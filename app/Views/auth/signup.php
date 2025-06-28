@@ -10,16 +10,16 @@ $errors = session()->getFlashdata('validationError');
 
 <body>
     <div class="w-full min-h-[100vh]">
-        <div class="w-full h-full bg-white shadow-default dark:border-strokedark dark:bg-boxdark">
+        <div class="w-full h-full bg-white shadow-default">
             <div class="flex h-full flex-wrap items-center">
                 <div class="hidden w-full xl:block xl:w-1/2">
                     <div class="px-26 py-17.5 text-center flex flex-col items-center justify-center">
                         <img src="<?= base_url('./images/logo.webp') ?>" alt="illustration" />
                     </div>
                 </div>
-                <div class="w-full border-stroke dark:border-strokedark xl:w-1/2 xl:border-l-2">
+                <div class="w-full border-stroke xl:w-1/2 xl:border-l-2">
                     <div class="w-full p-4 sm:p-12.5 xl:p-17.5">
-                        <h2 class="mb-9 text-2xl font-bold text-black dark:text-white sm:text-title-xl2">
+                        <h2 class="mb-9 text-2xl font-bold text-black sm:text-title-xl2">
                             Enter your email and password to sign up!
                         </h2>
 
@@ -36,17 +36,17 @@ $errors = session()->getFlashdata('validationError');
 
                         <form action="<?= base_url('signup/process') ?>" method="post">
                             <div class="mb-4">
-                                <label class="mb-2.5 block font-medium text-black dark:text-white">Name</label>
+                                <label class="mb-2.5 block font-medium text-black">Name</label>
                                 <div class="relative">
-                                    <input type="text" name="name" value="<?= isset($input['name']) ? esc($input['name']) : '' ?>" placeholder="Enter Name" class="w-full rounded-lg border <?= !isset($errors['name']) ? 'border-stroke dark:border-form-strokedark' : 'border-danger dark:border-danger' ?> bg-transparent px-5 py-3 outline-none focus:border-primary focus-visible:shadow-none dark:border-form-strokedark dark:focus:border-primary" />
+                                    <input type="text" name="name" value="<?= isset($input['name']) ? esc($input['name']) : '' ?>" placeholder="Enter Name" class="w-full rounded-lg border <?= !isset($errors['name']) ? 'border-stroke' : 'border-danger' ?> bg-transparent px-5 py-3 outline-none focus:border-primary focus-visible:shadow-none" />
                                 </div>
                                 <span class="text-danger text-sm"><?= isset($errors['name']) ? $errors['name'] : '' ?></span>
                             </div>
 
                             <div class="mb-6">
-                                <label class="mb-2.5 block font-medium text-black dark:text-white">Email</label>
+                                <label class="mb-2.5 block font-medium text-black">Email</label>
                                 <div class="relative">
-                                    <input type="email" name="email" value="<?= isset($input['email']) ? esc($input['email']) : '' ?>" placeholder="Enter Email" class="w-full rounded-lg border <?= !isset($errors['email']) ? 'border-stroke dark:border-form-strokedark' : 'border-danger dark:border-danger' ?> bg-transparent px-5 py-3 outline-none focus:border-primary focus-visible:shadow-none dark:border-form-strokedark dark:focus:border-primary" />
+                                    <input type="email" name="email" value="<?= isset($input['email']) ? esc($input['email']) : '' ?>" placeholder="Enter Email" class="w-full rounded-lg border <?= !isset($errors['email']) ? 'border-stroke' : 'border-danger' ?> bg-transparent px-5 py-3 outline-none focus:border-primary focus-visible:shadow-none" />
 
                                     <span class="absolute right-4 top-4">
                                         <svg class="fill-current" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -62,9 +62,9 @@ $errors = session()->getFlashdata('validationError');
                             <div class="mb-6">
                                 <div class="grid grid-cols-12 gap-4">
                                     <div class="md:col-span-6 col-span-12">
-                                        <label class="mb-2.5 block font-medium text-black dark:text-white">Password</label>
+                                        <label class="mb-2.5 block font-medium text-black">Password</label>
                                         <div class="relative">
-                                            <input type="password" name="password" placeholder="Enter Password" class="w-full rounded-lg border <?= !isset($errors['password']) ? 'border-stroke dark:border-form-strokedark' : 'border-danger dark:border-danger' ?> bg-transparent px-5 py-3 outline-none focus:border-primary focus-visible:shadow-none dark:border-form-strokedark dark:focus:border-primary" />
+                                            <input type="password" name="password" placeholder="Enter Password" class="w-full rounded-lg border <?= !isset($errors['password']) ? 'border-stroke' : 'border-danger' ?> bg-transparent px-5 py-3 outline-none focus:border-primary focus-visible:shadow-none" />
 
                                             <span class="absolute right-4 top-4">
                                                 <svg class="fill-current" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -79,9 +79,9 @@ $errors = session()->getFlashdata('validationError');
                                     </div>
 
                                     <div class="md:col-span-6 col-span-12">
-                                        <label class="mb-2.5 block font-medium text-black dark:text-white">Confirm Password</label>
+                                        <label class="mb-2.5 block font-medium text-black">Confirm Password</label>
                                         <div class="relative">
-                                            <input type="password" name="conf_password" placeholder="Enter Confirm Password" class="w-full rounded-lg border <?= !isset($errors['conf_password']) ? 'border-stroke dark:border-form-strokedark' : 'border-danger dark:border-danger' ?> bg-transparent px-5 py-3 outline-none focus:border-primary focus-visible:shadow-none dark:border-form-strokedark dark:focus:border-primary" />
+                                            <input type="password" name="conf_password" placeholder="Enter Confirm Password" class="w-full rounded-lg border <?= !isset($errors['conf_password']) ? 'border-stroke' : 'border-danger' ?> bg-transparent px-5 py-3 outline-none focus:border-primary focus-visible:shadow-none" />
 
                                             <span class="absolute right-4 top-4">
                                                 <svg class="fill-current" width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -98,14 +98,14 @@ $errors = session()->getFlashdata('validationError');
                             </div>
 
                             <div class="mb-6">
-                                <label class="mb-2.5 block font-medium text-black dark:text-white">Phone</label>
-                                <input type="number" name="phone" value="<?= isset($input['phone']) ? esc($input['phone']) : '' ?>" placeholder="Enter Phone" class="w-full rounded-lg border <?= !isset($errors['phone']) ? 'border-stroke dark:border-form-strokedark' : 'border-danger dark:border-danger' ?> bg-transparent px-5 py-3 outline-none focus:border-primary focus-visible:shadow-none dark:border-form-strokedark dark:focus:border-primary" />
+                                <label class="mb-2.5 block font-medium text-black">Phone</label>
+                                <input type="number" name="phone" value="<?= isset($input['phone']) ? esc($input['phone']) : '' ?>" placeholder="Enter Phone" class="w-full rounded-lg border <?= !isset($errors['phone']) ? 'border-stroke' : 'border-danger' ?> bg-transparent px-5 py-3 outline-none focus:border-primary focus-visible:shadow-none" />
                                 <span class="text-danger text-sm"><?= isset($errors['phone']) ? $errors['phone'] : '' ?></span>
                             </div>
 
                             <div class="mb-6">
-                                <label class="mb-2.5 block font-medium text-black dark:text-white">Address</label>
-                                <input type="text" name="address" value="<?= isset($input['address']) ? esc($input['address']) : '' ?>" placeholder="Enter Address" class="w-full rounded-lg border <?= !isset($errors['address']) ? 'border-stroke dark:border-form-strokedark' : 'border-danger dark:border-danger' ?> bg-transparent px-5 py-3 outline-none focus:border-primary focus-visible:shadow-none dark:border-form-strokedark dark:focus:border-primary" />
+                                <label class="mb-2.5 block font-medium text-black">Address</label>
+                                <input type="text" name="address" value="<?= isset($input['address']) ? esc($input['address']) : '' ?>" placeholder="Enter Address" class="w-full rounded-lg border <?= !isset($errors['address']) ? 'border-stroke' : 'border-danger' ?> bg-transparent px-5 py-3 outline-none focus:border-primary focus-visible:shadow-none" />
                                 <span class="text-danger text-sm"><?= isset($errors['address']) ? $errors['address'] : '' ?></span>
                             </div>
 

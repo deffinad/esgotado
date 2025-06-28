@@ -4,7 +4,7 @@ $active = $data[count($data) - 1];
 ?>
 
 <div class="mb-6 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
-    <h2 class="text-title-md font-bold text-black dark:text-white capitalize">
+    <h2 class="text-title-md font-bold text-black capitalize">
         <?= $active->name ?>
     </h2>
 

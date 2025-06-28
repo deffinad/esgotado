@@ -14,35 +14,35 @@ $errors = session()->getFlashdata('validationError');
         <form action="<?= base_url('production/inventory/add/process') ?>" method="post" enctype="multipart/form-data">
             <div>
                 <div class="mb-4.5">
-                    <label class="mb-3 block text-sm font-medium text-black dark:text-white">
+                    <label class="mb-3 block text-sm font-medium text-black">
                         Type of Raw Material <span class="text-meta-1">*</span>
                     </label>
-                    <input type="text" name="type_materials" value="<?= isset($input['type_materials']) ? esc($input['type_materials']) : '' ?>" placeholder="Input Type of Raw Material" class="w-full rounded border-[1.5px] <?= !isset($errors['type_materials']) ? 'border-stroke dark:border-form-strokedark' : 'border-danger dark:border-danger' ?> bg-transparent px-5 py-3 font-normal text-black outline-none transition focus:border-primary active:border-primary disabled:cursor-default disabled:bg-whiter dark:bg-form-input dark:text-white dark:focus:border-primary" />
+                    <input type="text" name="type_materials" value="<?= isset($input['type_materials']) ? esc($input['type_materials']) : '' ?>" placeholder="Input Type of Raw Material" class="w-full rounded border-[1.5px] <?= !isset($errors['type_materials']) ? 'border-stroke' : 'border-danger' ?> bg-transparent px-5 py-3 font-normal text-black outline-none transition focus:border-primary active:border-primary disabled:cursor-default disabled:bg-whiter" />
                     <span class="text-danger text-sm"><?= isset($errors['type_materials']) ? $errors['type_materials'] : '' ?></span>
                 </div>
 
                 <div class="mb-4.5">
-                    <label class="mb-3 block text-sm font-medium text-black dark:text-white">
+                    <label class="mb-3 block text-sm font-medium text-black">
                         Code/SKU <span class="text-meta-1">*</span>
                     </label>
-                    <input type="text" name="code" value="<?= isset($input['code']) ? esc($input['code']) : '' ?>" placeholder="Input Code/SKU" class="w-full rounded border-[1.5px] <?= !isset($errors['code']) ? 'border-stroke dark:border-form-strokedark' : 'border-danger dark:border-danger' ?> bg-transparent px-5 py-3 font-normal text-black outline-none transition focus:border-primary active:border-primary disabled:cursor-default disabled:bg-whiter dark:bg-form-input dark:text-white dark:focus:border-primary" />
+                    <input type="text" name="code" value="<?= isset($input['code']) ? esc($input['code']) : '' ?>" placeholder="Input Code/SKU" class="w-full rounded border-[1.5px] <?= !isset($errors['code']) ? 'border-stroke' : 'border-danger' ?> bg-transparent px-5 py-3 font-normal text-black outline-none transition focus:border-primary active:border-primary disabled:cursor-default disabled:bg-whiter" />
                     <span class="text-danger text-sm"><?= isset($errors['code']) ? $errors['code'] : '' ?></span>
                 </div>
 
                 <div class="mb-4.5">
-                    <label class="mb-3 block text-sm font-medium text-black dark:text-white">
+                    <label class="mb-3 block text-sm font-medium text-black">
                         Amount/Unit <span class="text-meta-1">*</span>
                     </label>
 
                     <div class="grid grid-cols-12 gap-4">
                         <div class="col-span-10">
-                            <input type="number" name="amount" value="<?= isset($input['amount']) ? esc($input['amount']) : '' ?>" placeholder="Input Amount" class="w-full rounded border-[1.5px] <?= !isset($errors['amount']) ? 'border-stroke dark:border-form-strokedark' : 'border-danger dark:border-danger' ?> bg-transparent px-5 py-3 font-normal text-black outline-none transition focus:border-primary active:border-primary disabled:cursor-default disabled:bg-whiter dark:bg-form-input dark:text-white dark:focus:border-primary" />
+                            <input type="number" name="amount" value="<?= isset($input['amount']) ? esc($input['amount']) : '' ?>" placeholder="Input Amount" class="w-full rounded border-[1.5px] <?= !isset($errors['amount']) ? 'border-stroke' : 'border-danger' ?> bg-transparent px-5 py-3 font-normal text-black outline-none transition focus:border-primary active:border-primary disabled:cursor-default disabled:bg-whiter" />
                             <span class="text-danger text-sm"><?= isset($errors['amount']) ? $errors['amount'] : '' ?></span>
                         </div>
 
                         <div class="col-span-2">
-                            <div x-data="{ isOptionSelected: false }" class="relative z-20 bg-transparent dark:bg-form-input">
-                                <select name="unit" id="unit" class="relative z-20 w-full appearance-none rounded border <?= !isset($errors['unit']) ? 'border-stroke dark:border-form-strokedark' : 'border-danger dark:border-danger' ?> bg-transparent px-5 py-3 outline-none transition focus:border-primary active:border-primary dark:bg-form-input dark:focus:border-primary" :class="isOptionSelected && 'text-black dark:text-white'" @change="isOptionSelected = true">
+                            <div x-data="{ isOptionSelected: false }" class="relative z-20 bg-transparent">
+                                <select name="unit" id="unit" class="relative z-20 w-full appearance-none rounded border <?= !isset($errors['unit']) ? 'border-stroke' : 'border-danger' ?> bg-transparent px-5 py-3 outline-none transition focus:border-primary active:border-primary" :class="isOptionSelected && 'text-black'" @change="isOptionSelected = true">
                                     <option value="" disabled selected>
                                         Select Unit
                                     </option>

@@ -9,12 +9,12 @@
         <?php if ($type === 'stock-in-out-bar') { ?>
             <div class="h-[500px] relative bg-white border rounded-lg col-span-12">
                 <div class="flex justify-end">
-                    <div x-data="{ isOptionSelected: false }" class="relative m-4 z-20 bg-transparent dark:bg-form-input w-max">
+                    <div x-data="{ isOptionSelected: false }" class="relative m-4 z-20 bg-transparent w-max">
                         <select
                             name="year"
                             id="year"
-                            class="relative z-20 appearance-none rounded border border-stroke dark:border-form-strokedark bg-transparent px-5 py-2 outline-none transition focus:border-primary active:border-primary dark:bg-form-input dark:focus:border-primary w-40"
-                            :class="isOptionSelected && 'text-black dark:text-white'"
+                            class="relative z-20 appearance-none rounded border border-stroke bg-transparent px-5 py-2 outline-none transition focus:border-primary active:border-primary  w-40"
+                            :class="isOptionSelected && 'text-black'"
                             @change="isOptionSelected = true">
                             <option value="" disabled selected>Select Year</option>
                             <?php for ($i = 2018; $i <= 2030; $i++) { ?>
@@ -122,12 +122,12 @@
         <?php } else if ($type === 'stock-in-out-line') { ?>
             <div class="h-[500px] relative bg-white border rounded-lg col-span-12">
                 <div class="flex justify-end">
-                    <div x-data="{ isOptionSelected: false }" class="relative m-4 z-20 bg-transparent dark:bg-form-input w-max">
+                    <div x-data="{ isOptionSelected: false }" class="relative m-4 z-20 bg-transparent w-max">
                         <select
                             name="year"
                             id="year"
-                            class="relative z-20 appearance-none rounded border border-stroke dark:border-form-strokedark bg-transparent px-5 py-2 outline-none transition focus:border-primary active:border-primary dark:bg-form-input dark:focus:border-primary w-40"
-                            :class="isOptionSelected && 'text-black dark:text-white'"
+                            class="relative z-20 appearance-none rounded border border-stroke bg-transparent px-5 py-2 outline-none transition focus:border-primary active:border-primary w-40"
+                            :class="isOptionSelected && 'text-black'"
                             @change="isOptionSelected = true">
                             <option value="" disabled selected>Select Year</option>
                             <?php for ($i = 2018; $i <= 2030; $i++) { ?>

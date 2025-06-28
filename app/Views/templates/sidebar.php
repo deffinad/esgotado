@@ -1,12 +1,13 @@
 <?php
 $route = $_SESSION['route'][count($_SESSION['route']) - 1];
+$user = $_SESSION['isLogged'];
 ?>
 
-<aside :class="sidebarToggle ? 'translate-x-0' : '-translate-x-full'" class="absolute left-0 top-0 z-9999 flex h-screen w-72.5 flex-col overflow-y-hidden border bg-white duration-300 ease-linear dark:bg-boxdark lg:static lg:translate-x-0" @click.outside="sidebarToggle = false">
+<aside :class="sidebarToggle ? 'translate-x-0' : '-translate-x-full'" class="absolute left-0 top-0 z-9999 flex h-screen w-72.5 flex-col overflow-y-hidden border bg-white duration-300 ease-linear lg:static lg:translate-x-0" @click.outside="sidebarToggle = false">
     <!-- SIDEBAR HEADER -->
     <div class="flex items-center justify-between gap-2 px-6 py-5.5 lg:py-6.5">
         <div class="flex flex-1 items-center justify-center">
-            <a href="index.html">
+            <a href="<?= base_url('/')?>">
                 <img src="<?= base_url('images/logo.webp') ?>" alt="Logo" class="w-28" />
             </a>
         </div>
@@ -20,16 +21,16 @@ $route = $_SESSION['route'][count($_SESSION['route']) - 1];
             <div>
                 <ul class="mb-6 flex flex-col gap-1.5">
                     <li>
-                        <a class="group relative flex items-center gap-2.5 rounded-lg px-4 py-2 duration-300 ease-in-out <?= $route->name === 'dashboard' || str_contains($route->url, 'dashboard') ? 'bg-orange-100 text-primary dark:bg-meta-4 font-semibold' : 'text-gray-500 hover:bg-gray-100 dark:hover:bg-meta-4 font-medium' ?>" href="<?= base_url('/') ?>">
+                        <a class="group relative flex items-center gap-2.5 rounded-lg px-4 py-2 duration-300 ease-in-out <?= $route->name === 'dashboard' || str_contains($route->url, 'dashboard') ? 'bg-orange-100 text-primary font-semibold' : 'text-gray-500 hover:bg-gray-100 font-medium' ?>" href="<?= base_url('/') ?>">
                             <i class="fas fa-th-large"></i>
                             Dashboard
                         </a>
                     </li>
 
                     <li>
-                        <a class="group relative flex items-center gap-2.5 rounded-lg px-4 py-2  duration-300 ease-in-out <?= str_contains($route->url, 'production') ? 'bg-orange-100 text-primary dark:bg-meta-4 font-semibold' : 'text-gray-500 hover:bg-gray-100 dark:hover:bg-meta-4 font-medium' ?> "
+                        <a class="group relative flex items-center gap-2.5 rounded-lg px-4 py-2  duration-300 ease-in-out <?= str_contains($route->url, 'production') ? 'bg-orange-100 text-primary font-semibold' : 'text-gray-500 hover:bg-gray-100 font-medium' ?> "
                             href="#" @click.prevent="selected = (selected === 'Production' ? '':'Production')"
-                            :class="{ 'bg-gray-100 dark:bg-meta-4': (selected === 'Production') && ( <?= !str_contains($route->url, 'production') ?>) }">
+                            :class="{ 'bg-gray-100': (selected === 'Production') && ( <?= !str_contains($route->url, 'production') ?>) }">
                             <i class="fas fa-boxes"></i>
                             Production
 
@@ -71,12 +72,14 @@ $route = $_SESSION['route'][count($_SESSION['route']) - 1];
                         <!-- Dropdown Menu End -->
                     </li>
 
-                    <li>
-                        <a class="group relative flex items-center gap-2.5 rounded-lg px-4 py-2 duration-300 ease-in-out <?= $route->name === 'log activity' ? 'bg-orange-100 text-primary dark:bg-meta-4 font-semibold' : 'text-gray-500 hover:bg-gray-100 dark:hover:bg-meta-4 font-medium' ?>" href="<?= base_url('log-activity') ?>">
-                            <i class="fas fa-clipboard-list"></i>
-                            Log Activity
-                        </a>
-                    </li>
+                    <?php if ($user['level'] == 'Owner') { ?>
+                        <li>
+                            <a class="group relative flex items-center gap-2.5 rounded-lg px-4 py-2 duration-300 ease-in-out <?= $route->name === 'log activity' ? 'bg-orange-100 text-primary font-semibold' : 'text-gray-500 hover:bg-gray-100 font-medium' ?>" href="<?= base_url('log-activity') ?>">
+                                <i class="fas fa-clipboard-list"></i>
+                                Log Activity
+                            </a>
+                        </li>
+                    <?php } ?>
                 </ul>
             </div>
         </nav>

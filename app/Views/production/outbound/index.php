@@ -1,14 +1,18 @@
 <?= $this->extend('templates/layout'); ?>
-
 <?= $this->section('content'); ?>
-
 <?= $this->include('templates/breadcrumb') ?>
+
+<?php
+$user = $_SESSION['isLogged'];
+?>
 
 <section>
     <div class="bg-white border rounded-lg p-4 flex flex-col gap-4">
-        <div class="py-2">
-            <a href="<?= base_url('production/outbound/add') ?>" class="cursor-pointer rounded-lg border border-primary bg-primary px-4 py-2 font-medium text-white transition hover:bg-opacity-90">+ Tambah</a>
-        </div>
+        <?php if ($user['level'] == 'Staff') { ?>
+            <div class="py-2">
+                <a href="<?= base_url('production/outbound/add') ?>" class="cursor-pointer rounded-lg border border-primary bg-primary px-4 py-2 font-medium text-white transition hover:bg-opacity-90">+ Tambah</a>
+            </div>
+        <?php } ?>
 
         <table id="myTable" class="display">
             <thead>
@@ -19,7 +23,9 @@
                     <th>Code/SKU</th>
                     <th>Type & Unit</th>
                     <th>Serial Number</th>
-                    <th>Action</th>
+                    <?php if ($user['level'] == 'Staff') { ?>
+                        <th>Action</th>
+                    <?php } ?>
                 </tr>
             </thead>
             <tbody>
@@ -31,16 +37,18 @@
                         <td><?= $val->code_sku ?></td>
                         <td><?= $val->amount_unit . ' ' . $val->unit ?></td>
                         <td><?= $val->serial_number ?></td>
-                        <td>
-                            <div class="flex flex-row items-center gap-2">
-                                <a href="<?= base_url('/production/outbound/edit/' . $val->id_outbound) ?>" class="transition-all duration-200 hover:text-yellow-500 dark:hover:text-white text-gray-500">
-                                    <i class="far fa-edit text-lg"></i>
-                                </a>
-                                <a href="#" class="open-delete-modal transition-all duration-200 hover:text-red-500 dark:hover:text-white text-gray-500 cursor-pointer" data-id="<?= $val->id_outbound ?>">
-                                    <i class="far fa-trash-alt text-lg"></i>
-                                </a>
-                            </div>
-                        </td>
+                        <?php if ($user['level'] == 'Staff') { ?>
+                            <td>
+                                <div class="flex flex-row items-center gap-2">
+                                    <a href="<?= base_url('/production/outbound/edit/' . $val->id_outbound) ?>" class="transition-all duration-200 hover:text-yellow-500 text-gray-500">
+                                        <i class="far fa-edit text-lg"></i>
+                                    </a>
+                                    <a href="#" class="open-delete-modal transition-all duration-200 hover:text-red-500 text-gray-500 cursor-pointer" data-id="<?= $val->id_outbound ?>">
+                                        <i class="far fa-trash-alt text-lg"></i>
+                                    </a>
+                                </div>
+                            </td>
+                        <?php } ?>
                     </tr>
                 <?php } ?>
             </tbody>

@@ -26,7 +26,7 @@ $gagal = session()->getFlashdata('gagal') ? true : false;
     $watch('darkMode', value => localStorage.setItem('darkMode', JSON.stringify(value)));
   "
     :class="{
-    'dark text-bodydark bg-boxdark-2': darkMode === true
+    'dark text-black bg-boxdark-2': darkMode === true
   }"
     class="overflow-y-hidden">
 
