@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 29, 2025 at 05:12 PM
+-- Generation Time: Jun 29, 2025 at 05:19 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -61,14 +61,6 @@ CREATE TABLE `t_inventory` (
   `stock` int(11) NOT NULL,
   `unit` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
---
--- Dumping data for table `t_inventory`
---
-
-INSERT INTO `t_inventory` (`code_sku`, `type_of_material`, `stock`, `unit`) VALUES
-('W01', 'Webing', 0, 'Dozen'),
-('Z01', 'Zipper', 50, 'Dozen');
 
 -- --------------------------------------------------------
 
@@ -176,7 +168,7 @@ ALTER TABLE `t_user`
 -- AUTO_INCREMENT for table `t_category`
 --
 ALTER TABLE `t_category`
-  MODIFY `id_category` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `id_category` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 
 --
 -- AUTO_INCREMENT for table `t_inbound`
