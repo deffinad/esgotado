@@ -66,7 +66,7 @@ $errors = session()->getFlashdata('validationError');
                 <div class="mb-4.5 flex flex-col gap-4" id="wrapper-category">
                     <div>
                         <button type="button" id="btn-category" class="flex justify-center rounded bg-primary py-1 px-3 font-medium text-white hover:bg-opacity-90">
-                            + Tambah Kategori
+                            + Add Category
                         </button>
                     </div>
 
@@ -86,7 +86,7 @@ $errors = session()->getFlashdata('validationError');
                 </div>
 
                 <button class="flex w-full justify-center rounded bg-primary p-3 font-medium text-white hover:bg-opacity-90">
-                    Ubah
+                    Edit
                 </button>
             </div>
         </form>

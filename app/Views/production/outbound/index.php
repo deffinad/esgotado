@@ -10,7 +10,7 @@ $user = $_SESSION['isLogged'];
     <div class="bg-white border rounded-lg p-4 flex flex-col gap-4">
         <?php if ($user['level'] == 'Staff') { ?>
             <div class="py-2">
-                <a href="<?= base_url('production/outbound/add') ?>" class="cursor-pointer rounded-lg border border-primary bg-primary px-4 py-2 font-medium text-white transition hover:bg-opacity-90">+ Tambah</a>
+                <a href="<?= base_url('production/outbound/add') ?>" class="cursor-pointer rounded-lg border border-primary bg-primary px-4 py-2 font-medium text-white transition hover:bg-opacity-90">+ Add</a>
             </div>
         <?php } ?>
 

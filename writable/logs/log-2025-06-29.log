@@ -1065,3 +1065,5 @@ INFO - 2025-06-29 15:09:42 --> Session: Class initialized using 'CodeIgniter\Ses
 WARNING - 2025-06-29 15:09:42 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
 INFO - 2025-06-29 15:09:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 WARNING - 2025-06-29 15:09:45 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
+INFO - 2025-06-29 15:12:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-06-29 15:12:54 --> Session: Sessions is enabled, and one exists. Please don't $session->start();
