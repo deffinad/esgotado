@@ -49,6 +49,7 @@ class Inbound extends BaseController
             $data = [
                 'date' => $input['date'],
                 'code_sku' => $input['code'],
+                'category' => isset($input['category']) ? $input['category'] : '',
                 'amount_unit' => $input['amount'],
                 'serial_number' => $input['serial_number'],
                 'id_user' => $this->session->get('isLogged')['id_user']
@@ -99,20 +100,21 @@ class Inbound extends BaseController
             $data = [
                 'date' => $input['date'],
                 'code_sku' => $input['code'],
+                'category' => isset($input['category']) ? $input['category'] : '',
                 'amount_unit' => $input['amount'],
                 'serial_number' => $input['serial_number'],
                 'id_user' => $this->session->get('isLogged')['id_user']
             ];
 
 
-            // $dlInv = $this->mInventory->getInventoryById($input['code']);
-            // $dlInb = $this->mInbound->getInboundById($id);
-            // $stockInv = ($dlInv['stock'] - $dlInb['amount_unit']) + $input['amount'];
+            $dlInv = $this->mInventory->getInventoryById($input['code']);
+            $dlInb = $this->mInbound->getInboundById($id);
+            $stockInv = ($dlInv['stock'] - $dlInb['amount_unit']) + $input['amount'];
 
             $result = $this->mInbound->editInbound($data, $id);
-            // $resultStock = $this->mInventory->editInventory(['stock' => $stockInv], $input['code']);
+            $resultStock = $this->mInventory->editInventory(['stock' => $stockInv], $input['code']);
 
-            if ($result) {
+            if ($result && $resultStock) {
                 $data = [
                     'id_user' => $this->session->get('isLogged')['id_user'],
                     'date' => date('Y-m-d H:i:s'),
@@ -132,6 +134,8 @@ class Inbound extends BaseController
     public function deleteInboundProcess($id)
     {
         $inbound = $this->mInbound->getInboundById($id);
+        $dlInv = $this->mInventory->getInventoryById($inbound['code_sku']);
+        $stockInv = ($dlInv['stock'] - $inbound['amount_unit']);
 
         $data = [
             'id_user' => $this->session->get('isLogged')['id_user'],
@@ -142,6 +146,7 @@ class Inbound extends BaseController
         $this->mLog->addLog($data);
         $result = $this->mInbound->deleteInbound($id);
         if ($result) {
+            $this->mInventory->editInventory(['stock' => $stockInv], $dlInv['code_sku']);
             $this->session->setFlashdata('sukses', 'Data Inbound Berhasil Dihapus');
         } else {
             $this->session->setFlashdata('gagal', 'Data Inbound Gagal Dihapus');

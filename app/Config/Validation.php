@@ -145,12 +145,12 @@ class Validation extends BaseConfig
                 'required' => 'Type of materials is required',
             ]
         ],
-        'amount' => [
-            'rules' => 'required',
-            'errors' => [
-                'required' => 'Amount is required',
-            ]
-        ],
+        // 'amount' => [
+        //     'rules' => 'required',
+        //     'errors' => [
+        //         'required' => 'Amount is required',
+        //     ]
+        // ],
         'code' => [
             'rules' => 'required',
             'errors' => [

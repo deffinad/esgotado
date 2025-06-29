@@ -13,7 +13,7 @@
                         <select
                             name="year"
                             id="year"
-                            class="relative z-20 appearance-none rounded border border-stroke bg-transparent px-5 py-2 outline-none transition focus:border-primary active:border-primary  w-40"
+                            class="relative z-20 rounded border border-stroke bg-transparent px-5 py-2 outline-none transition focus:border-primary active:border-primary  w-40"
                             :class="isOptionSelected && 'text-black'"
                             @change="isOptionSelected = true">
                             <option value="" disabled selected>Select Year</option>
@@ -126,7 +126,7 @@
                         <select
                             name="year"
                             id="year"
-                            class="relative z-20 appearance-none rounded border border-stroke bg-transparent px-5 py-2 outline-none transition focus:border-primary active:border-primary w-40"
+                            class="relative z-20 rounded border border-stroke bg-transparent px-5 py-2 outline-none transition focus:border-primary active:border-primary w-40"
                             :class="isOptionSelected && 'text-black'"
                             @change="isOptionSelected = true">
                             <option value="" disabled selected>Select Year</option>

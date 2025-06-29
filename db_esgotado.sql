@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 23, 2025 at 05:10 AM
+-- Generation Time: Jun 29, 2025 at 05:12 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -24,6 +24,18 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
+-- Table structure for table `t_category`
+--
+
+CREATE TABLE `t_category` (
+  `id_category` int(11) NOT NULL,
+  `code_sku` varchar(100) NOT NULL,
+  `nama` varchar(100) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+-- --------------------------------------------------------
+
+--
 -- Table structure for table `t_inbound`
 --
 
@@ -31,6 +43,7 @@ CREATE TABLE `t_inbound` (
   `id_inbound` int(11) NOT NULL,
   `date` datetime NOT NULL,
   `code_sku` varchar(100) NOT NULL,
+  `category` varchar(100) NOT NULL,
   `amount_unit` int(11) NOT NULL,
   `serial_number` varchar(100) NOT NULL,
   `id_user` int(11) NOT NULL
@@ -48,6 +61,14 @@ CREATE TABLE `t_inventory` (
   `stock` int(11) NOT NULL,
   `unit` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `t_inventory`
+--
+
+INSERT INTO `t_inventory` (`code_sku`, `type_of_material`, `stock`, `unit`) VALUES
+('W01', 'Webing', 0, 'Dozen'),
+('Z01', 'Zipper', 50, 'Dozen');
 
 -- --------------------------------------------------------
 
@@ -72,6 +93,7 @@ CREATE TABLE `t_outbound` (
   `id_outbound` int(11) NOT NULL,
   `date` datetime NOT NULL,
   `code_sku` varchar(100) NOT NULL,
+  `category` varchar(100) NOT NULL,
   `amount_unit` int(11) NOT NULL,
   `serial_number` varchar(100) NOT NULL,
   `id_user` int(11) NOT NULL
@@ -98,12 +120,18 @@ CREATE TABLE `t_user` (
 --
 
 INSERT INTO `t_user` (`id_user`, `nama`, `email`, `password`, `level`, `phone`, `address`) VALUES
-(1, 'Admin', 'admin@gmail.com', 'd033e22ae348aeb5660fc2140aec35850c4da997', 'Staff', '085721350359', 'Jl. Moch Yunus Gg. Siti Salsah No.7'),
-(2, 'Haikal', 'haikal@gmail.com', 'c21b3ad4636fcc88a81c8154ff319be7936e63ae', 'Owner', '085721350359', 'Jl. Moch Yunus Gg. Siti Salsah No.7');
+(1, 'Admin', 'admin@gmail.com', 'd033e22ae348aeb5660fc2140aec35850c4da997', 'Owner', '085721350359', 'Jl. Moch Yunus Gg. Siti Salsah No.7'),
+(2, 'Haikal', 'haikal@gmail.com', 'c21b3ad4636fcc88a81c8154ff319be7936e63ae', 'Staff', '085721350359', 'Jl. Moch Yunus Gg. Siti Salsah No.7');
 
 --
 -- Indexes for dumped tables
 --
+
+--
+-- Indexes for table `t_category`
+--
+ALTER TABLE `t_category`
+  ADD PRIMARY KEY (`id_category`);
 
 --
 -- Indexes for table `t_inbound`
@@ -145,22 +173,28 @@ ALTER TABLE `t_user`
 --
 
 --
+-- AUTO_INCREMENT for table `t_category`
+--
+ALTER TABLE `t_category`
+  MODIFY `id_category` int(11) NOT NULL AUTO_INCREMENT;
+
+--
 -- AUTO_INCREMENT for table `t_inbound`
 --
 ALTER TABLE `t_inbound`
-  MODIFY `id_inbound` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
+  MODIFY `id_inbound` int(11) NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `t_log`
 --
 ALTER TABLE `t_log`
-  MODIFY `id_log` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=15;
+  MODIFY `id_log` int(11) NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `t_outbound`
 --
 ALTER TABLE `t_outbound`
-  MODIFY `id_outbound` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
+  MODIFY `id_outbound` int(11) NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `t_user`

@@ -49,6 +49,7 @@ class Outbound extends BaseController
             $data = [
                 'date' => $input['date'],
                 'code_sku' => $input['code'],
+                'category' => isset($input['category']) ? $input['category'] : '',
                 'amount_unit' => $input['amount'],
                 'serial_number' => $input['serial_number'],
                 'id_user' => $this->session->get('isLogged')['id_user']
@@ -99,20 +100,20 @@ class Outbound extends BaseController
             $data = [
                 'date' => $input['date'],
                 'code_sku' => $input['code'],
+                'category' => isset($input['category']) ? $input['category'] : '',
                 'amount_unit' => $input['amount'],
                 'serial_number' => $input['serial_number'],
                 'id_user' => $this->session->get('isLogged')['id_user']
             ];
 
-
-            // $dlInv = $this->mInventory->getInventoryById($input['code']);
-            // $dlInb = $this->mOutbound->getOutboundById($id);
-            // $stockInv = ($dlInv['stock'] - $dlInb['amount_unit']) - $input['amount'];
+            $dlInv = $this->mInventory->getInventoryById($input['code']);
+            $dlInb = $this->mOutbound->getOutboundById($id);
+            $stockInv = ($dlInv['stock'] + $dlInb['amount_unit']) - $input['amount'];
 
             $result = $this->mOutbound->editOutbound($data, $id);
-            // $resultStock = $this->mInventory->editInventory(['stock' => $stockInv], $input['code']);
+            $resultStock = $this->mInventory->editInventory(['stock' => $stockInv], $input['code']);
 
-            if ($result) {
+            if ($result && $resultStock) {
                 $data = [
                     'id_user' => $this->session->get('isLogged')['id_user'],
                     'date' => date('Y-m-d H:i:s'),
@@ -132,6 +133,8 @@ class Outbound extends BaseController
     public function deleteOutboundProcess($id)
     {
         $outbound = $this->mOutbound->getOutboundById($id);
+        $dlInv = $this->mInventory->getInventoryById($outbound['code_sku']);
+        $stockInv = ($dlInv['stock'] + $outbound['amount_unit']);
 
         $data = [
             'id_user' => $this->session->get('isLogged')['id_user'],
@@ -142,6 +145,7 @@ class Outbound extends BaseController
         $this->mLog->addLog($data);
         $result = $this->mOutbound->deleteOutbound($id);
         if ($result) {
+            $this->mInventory->editInventory(['stock' => $stockInv], $dlInv['code_sku']);
             $this->session->setFlashdata('sukses', 'Data Outbound Berhasil Dihapus');
         } else {
             $this->session->setFlashdata('gagal', 'Data Outbound Gagal Dihapus');

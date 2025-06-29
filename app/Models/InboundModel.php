@@ -10,7 +10,7 @@ class InboundModel extends Model
     {
         return $this->db
             ->table('t_inbound as in')
-            ->select('in.id_inbound, in.date, in.code_sku, in.amount_unit, in.serial_number, u.id_user, u.nama, inv.type_of_material, inv.stock, inv.unit')
+            ->select('in.id_inbound, in.date, in.code_sku,in.category, in.amount_unit, in.serial_number, u.id_user, u.nama, inv.type_of_material, inv.stock, inv.unit')
             ->join('t_user as u', 'in.id_user = u.id_user')
             ->join('t_inventory as inv', 'inv.code_sku = in.code_sku')
             ->get()
@@ -21,7 +21,7 @@ class InboundModel extends Model
     {
         return $this->db
             ->table('t_inbound as in')
-            ->select('in.id_inbound, in.date, in.code_sku, in.amount_unit, in.serial_number, u.id_user, u.nama, inv.type_of_material, inv.stock, inv.unit')
+            ->select('in.id_inbound, in.date, in.code_sku,in.category, in.amount_unit, in.serial_number, u.id_user, u.nama, inv.type_of_material, inv.stock, inv.unit')
             ->join('t_user as u', 'in.id_user = u.id_user')
             ->join('t_inventory as inv', 'inv.code_sku = in.code_sku')
             ->where($where)
@@ -33,7 +33,7 @@ class InboundModel extends Model
     {
         return $this->db
             ->table('t_inbound as in')
-            ->select('in.id_inbound, in.date, in.code_sku, in.amount_unit, in.serial_number, u.id_user, u.nama, inv.type_of_material, inv.stock, inv.unit')
+            ->select('in.id_inbound, in.date, in.code_sku, in.category, in.amount_unit, in.serial_number, u.id_user, u.nama, inv.type_of_material, inv.stock, inv.unit')
             ->join('t_user as u', 'in.id_user = u.id_user')
             ->join('t_inventory as inv', 'inv.code_sku = in.code_sku')
             ->where('id_inbound', $id)

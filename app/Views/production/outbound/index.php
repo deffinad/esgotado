@@ -33,7 +33,7 @@ $user = $_SESSION['isLogged'];
                     <tr>
                         <td><?= $index + 1 ?></td>
                         <td class="!text-left"><?= $val->date ?></td>
-                        <td><?= $val->type_of_material ?></td>
+                        <td><?= $val->category != '' ? $val->type_of_material . ' ' .$val->category : $val->type_of_material ?></td>
                         <td><?= $val->code_sku ?></td>
                         <td><?= $val->amount_unit . ' ' . $val->unit ?></td>
                         <td><?= $val->serial_number ?></td>

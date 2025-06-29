@@ -38,6 +38,8 @@ $routes->get('/production/inventory/edit/(:any)', 'Production::editInventoryView
 $routes->add('/production/inventory/edit/process/(:any)', 'Inventory::editInventoryProcess/$1', ['filter' => 'authGuard']);
 $routes->add('/production/inventory/delete/(:any)', 'Inventory::deleteInventoryProcess/$1', ['filter' => 'authGuard']);
 
+$routes->get('/production/category/(:any)', 'Inventory::getCategoryByInventory/$1', ['filter' => 'authGuard']);
+
 $routes->get('/production/history', 'Production::historyView', ['filter' => 'authGuard']);
 
 $routes->get('/log-activity', 'Production::logActivityView', ['filter' => 'authGuard']);

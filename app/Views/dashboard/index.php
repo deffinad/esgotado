@@ -97,7 +97,7 @@ $errors = session()->getFlashdata('validationError');
                             Type of Raw Material <span class="text-meta-1">*</span>
                         </label>
                         <div x-data="{ isOptionSelected: false }" class="relative z-20 bg-transparent">
-                            <select name="type_materials" id="type_materials" class="relative z-20 w-full appearance-none rounded border <?= !isset($errors['type_materials']) ? 'border-stroke' : 'border-danger' ?> bg-transparent px-5 py-3 outline-none transition focus:border-primary active:border-primary" :class="isOptionSelected && 'text-black'" @change="isOptionSelected = true">
+                            <select name="type_materials" id="type_materials" class="relative z-20 w-full rounded border <?= !isset($errors['type_materials']) ? 'border-stroke' : 'border-danger' ?> bg-transparent px-5 py-3 outline-none transition focus:border-primary active:border-primary" :class="isOptionSelected && 'text-black'" @change="isOptionSelected = true">
                                 <option value="" disabled selected>
                                     Select
                                 </option>
@@ -177,7 +177,7 @@ $errors = session()->getFlashdata('validationError');
                             Type of Raw Material <span class="text-meta-1">*</span>
                         </label>
                         <div x-data="{ isOptionSelected: false }" class="relative z-20 bg-transparent">
-                            <select name="type_materials" id="type_materials" class="relative z-20 w-full appearance-none rounded border <?= !isset($errors['type_materials']) ? 'border-stroke' : 'border-danger' ?> bg-transparent px-5 py-3 outline-none transition focus:border-primary active:border-primary" :class="isOptionSelected && 'text-black'" @change="isOptionSelected = true">
+                            <select name="type_materials" id="type_materials" class="relative z-20 w-full rounded border <?= !isset($errors['type_materials']) ? 'border-stroke' : 'border-danger' ?> bg-transparent px-5 py-3 outline-none transition focus:border-primary active:border-primary" :class="isOptionSelected && 'text-black'" @change="isOptionSelected = true">
                                 <option value="" disabled selected>
                                     Select
                                 </option>

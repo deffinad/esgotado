@@ -2,6 +2,7 @@
 
 namespace App\Controllers;
 
+use App\Models\CategoryModel;
 use App\Models\InboundModel;
 use App\Models\InventoryModel;
 use App\Models\LogActivityModel;
@@ -12,6 +13,7 @@ class Production extends BaseController
 {
     protected $session;
     protected $mInventory;
+    protected $mCategory;
     protected $mInbound;
     protected $mOutbound;
     protected $mLog;
@@ -25,6 +27,7 @@ class Production extends BaseController
         $this->mInbound = new InboundModel();
         $this->mOutbound = new OutboundModel();
         $this->mLog = new LogActivityModel();
+        $this->mCategory = new CategoryModel();
     }
 
     public function inboundView()
@@ -87,6 +90,8 @@ class Production extends BaseController
         $this->session->set('route', $breadcrumb);
         $data['inventory'] = $this->mInventory->getInventory();
         $data['inbound'] = $this->mInbound->getInboundById($id);
+
+        $data['category'] = $this->mCategory->getCategoryByInventory($data['inbound']['code_sku']);
         return view('production/inbound/edit', $data);
     }
 
@@ -150,6 +155,8 @@ class Production extends BaseController
         $this->session->set('route', $breadcrumb);
         $data['inventory'] = $this->mInventory->getInventory();
         $data['outbound'] = $this->mOutbound->getOutboundById($id);
+
+        $data['category'] = $this->mCategory->getCategoryByInventory($data['outbound']['code_sku']);
         return view('production/outbound/edit', $data);
     }
 
@@ -211,6 +218,7 @@ class Production extends BaseController
 
         $this->session->set('route', $breadcrumb);
         $data['inventory'] = $this->mInventory->getInventoryById($id);
+        $data['category'] = $this->mCategory->getCategoryByInventory($id);
         return view('production/inventory/edit', $data);
     }
 

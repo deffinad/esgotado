@@ -10,7 +10,7 @@ class OutboundModel extends Model
     {
         return $this->db
             ->table('t_outbound as out')
-            ->select('out.id_outbound, out.date, out.code_sku, out.amount_unit, out.serial_number, u.id_user, u.nama, inv.type_of_material, inv.stock, inv.unit')
+            ->select('out.id_outbound, out.date, out.code_sku, out.category, out.amount_unit, out.serial_number, u.id_user, u.nama, inv.type_of_material, inv.stock, inv.unit')
             ->join('t_user as u', 'out.id_user = u.id_user')
             ->join('t_inventory as inv', 'inv.code_sku = out.code_sku')
             ->get()
@@ -21,7 +21,7 @@ class OutboundModel extends Model
     {
         return $this->db
             ->table('t_outbound as out')
-            ->select('out.id_outbound, out.date, out.code_sku, out.amount_unit, out.serial_number, u.id_user, u.nama, inv.type_of_material, inv.stock, inv.unit')
+            ->select('out.id_outbound, out.date, out.code_sku, out.category, out.amount_unit, out.serial_number, u.id_user, u.nama, inv.type_of_material, inv.stock, inv.unit')
             ->join('t_user as u', 'out.id_user = u.id_user')
             ->join('t_inventory as inv', 'inv.code_sku = out.code_sku')
             ->where($where)
@@ -32,7 +32,7 @@ class OutboundModel extends Model
     public function getOutboundById($id)
     {
         return $this->db->table('t_outbound as out')
-            ->select('out.id_outbound, out.date, out.code_sku, out.amount_unit, out.serial_number, u.id_user, u.nama, inv.type_of_material, inv.stock, inv.unit')
+            ->select('out.id_outbound, out.date, out.code_sku, out.category, out.amount_unit, out.serial_number, u.id_user, u.nama, inv.type_of_material, inv.stock, inv.unit')
             ->join('t_user as u', 'out.id_user = u.id_user')
             ->join('t_inventory as inv', 'inv.code_sku = out.code_sku')
             ->where('id_outbound', $id)->get()

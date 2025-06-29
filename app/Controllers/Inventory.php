@@ -2,6 +2,7 @@
 
 namespace App\Controllers;
 
+use App\Models\CategoryModel;
 use App\Models\InventoryModel;
 use App\Models\LogActivityModel;
 use PhpParser\Node\Stmt\Break_;
@@ -11,6 +12,7 @@ class Inventory extends BaseController
     protected $session;
     protected $mInventory;
     protected $mLog;
+    protected $mCategory;
     protected $validation;
 
     public function __construct()
@@ -22,6 +24,7 @@ class Inventory extends BaseController
 
         $this->mInventory = new InventoryModel();
         $this->mLog = new LogActivityModel();
+        $this->mCategory = new CategoryModel();
     }
 
     public function addInventoryProcess()
@@ -30,7 +33,7 @@ class Inventory extends BaseController
 
         $validation = [
             'type_materials' => $input['type_materials'] ?? '',
-            'amount' => $input['amount'] ?? '',
+            // 'amount' => $input['amount'] ?? '',
             'code' => $input['code'] ?? '',
             'unit' => $input['unit'] ?? '',
         ];
@@ -44,11 +47,20 @@ class Inventory extends BaseController
             $data = [
                 'code_sku' => $input['code'],
                 'type_of_material' => $input['type_materials'],
-                'stock' => $input['amount'],
+                'stock' => 0,
                 'unit' => $input['unit'],
             ];
 
             $result = $this->mInventory->addInventory($data);
+            if (isset($input['category']) && count($input['category']) > 0) {
+                foreach ($input['category'] as $val) {
+                    $dataCategory = [
+                        'code_sku' => $input['code'],
+                        'nama' => $val
+                    ];
+                    $this->mCategory->addCategory($dataCategory);
+                }
+            }
 
             if ($result) {
                 $data = [
@@ -73,7 +85,7 @@ class Inventory extends BaseController
 
         $validation = [
             'type_materials' => $input['type_materials'] ?? '',
-            'amount' => $input['amount'] ?? '',
+            // 'amount' => $input['amount'] ?? '',
             'code' => $input['code'] ?? '',
             'unit' => $input['unit'] ?? '',
         ];
@@ -86,13 +98,25 @@ class Inventory extends BaseController
         } else {
             $data = [
                 'type_of_material' => $input['type_materials'],
-                'stock' => $input['amount'],
+                // 'stock' => $input['amount'],
                 'unit' => $input['unit'],
             ];
 
             $result = $this->mInventory->editInventory($data, $id);
 
             if ($result) {
+                $resultDelete = $this->mCategory->deleteCategoryByInventory($id);
+                if ($resultDelete) {
+                    if (isset($input['category']) && count($input['category']) > 0) {
+                        foreach ($input['category'] as $val) {
+                            $dataCategory = [
+                                'code_sku' => $input['code'],
+                                'nama' => $val
+                            ];
+                            $this->mCategory->addCategory($dataCategory);
+                        }
+                    }
+                }
                 $data = [
                     'id_user' => $this->session->get('isLogged')['id_user'],
                     'date' => date('Y-m-d H:i:s'),
@@ -112,7 +136,7 @@ class Inventory extends BaseController
     public function deleteInventoryProcess($id)
     {
         $inventory = $this->mInventory->getInventoryById($id);
-
+        $this->mCategory->deleteCategoryByInventory($id);
         $data = [
             'id_user' => $this->session->get('isLogged')['id_user'],
             'date' => date('Y-m-d H:i:s'),
@@ -128,5 +152,12 @@ class Inventory extends BaseController
         }
 
         return redirect()->to('production/inventory');
+    }
+
+    public function getCategoryByInventory($inventory)
+    {
+        $data['category'] = $this->mCategory->getCategoryByInventory($inventory);
+
+        return $this->response->setJSON($data);
     }
 }
