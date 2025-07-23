@@ -56,25 +56,33 @@ class Outbound extends BaseController
             ];
 
             $dlInv = $this->mInventory->getInventoryById($input['code']);
-            $stockInv = $dlInv['stock'] - $input['amount'];
 
-            $result = $this->mOutbound->addOutbound($data);
-            $resultStock = $this->mInventory->editInventory(['stock' => $stockInv], $input['code']);
-
-            if ($result && $resultStock) {
-                $data = [
-                    'id_user' => $this->session->get('isLogged')['id_user'],
-                    'date' => date('Y-m-d H:i:s'),
-                    'action' => 'Add outbound ' . $input['type_materials'] . '/' . $input['code'] . '/' . $input['serial_number']
-                ];
-
-                $this->mLog->addLog($data);
-                $this->session->setFlashdata('sukses', 'Data Outbound Berhasil Ditambahkan');
-            } else {
-                $this->session->setFlashdata('gagal', 'Data Outbound Gagal Ditambahkan');
+            if($dlInv['stock'] < $input['amount'] || $dlInv['stock'] == 0){
+                $this->session->setFlashdata('gagal', 'Data Amount/Unit Melebihi Stock Yang Ada');
+                $this->session->setFlashdata('input', $this->request->getPost());
+                return redirect()->back();
+            }else{
+                $stockInv = $dlInv['stock'] - $input['amount'];
+    
+                $result = $this->mOutbound->addOutbound($data);
+                $resultStock = $this->mInventory->editInventory(['stock' => $stockInv], $input['code']);
+    
+                if ($result && $resultStock) {
+                    $data = [
+                        'id_user' => $this->session->get('isLogged')['id_user'],
+                        'date' => date('Y-m-d H:i:s'),
+                        'action' => 'Add outbound ' . $input['type_materials'] . '/' . $input['code'] . '/' . $input['serial_number']
+                    ];
+    
+                    $this->mLog->addLog($data);
+                    $this->session->setFlashdata('sukses', 'Data Outbound Berhasil Ditambahkan');
+                } else {
+                    $this->session->setFlashdata('gagal', 'Data Outbound Gagal Ditambahkan');
+                }
+    
+                return redirect()->to('production/outbound');
             }
-
-            return redirect()->to('production/outbound');
+            
         }
     }
 
